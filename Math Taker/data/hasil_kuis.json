@@ -1,0 +1,6796 @@
+[
+  {
+    "id": "mvcyrlqexvke",
+    "timestamp": "2026-10-17T22:24:11.461Z",
+    "mode": "battle",
+    "room_code": "KELAS-7A",
+    "username": "admin",
+    "nama": "admin",
+    "paket": "M1_P4",
+    "skor": 10,
+    "sisa_nyawa": 3,
+    "total_waktu_ms": 37066,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "1/2 + 1/4",
+        "benar": true,
+        "jawaban_siswa": "3/4",
+        "waktu_ms": 3080,
+        "timestamp_jawab": "2026-10-17T22:23:35.444Z",
+        "jam_jawab": "05:23:35.444"
+      },
+      {
+        "no": 2,
+        "q": "1 - 1/3",
+        "benar": true,
+        "jawaban_siswa": "2/3",
+        "waktu_ms": 5230,
+        "timestamp_jawab": "2026-10-17T22:23:40.880Z",
+        "jam_jawab": "05:23:40.880"
+      },
+      {
+        "no": 3,
+        "q": "1/2 x 1/2",
+        "benar": true,
+        "jawaban_siswa": "1/4",
+        "waktu_ms": 2312,
+        "timestamp_jawab": "2026-10-17T22:23:43.392Z",
+        "jam_jawab": "05:23:43.392"
+      },
+      {
+        "no": 4,
+        "q": "3/4 - 1/2",
+        "benar": true,
+        "jawaban_siswa": "1/4",
+        "waktu_ms": 7226,
+        "timestamp_jawab": "2026-10-17T22:23:50.821Z",
+        "jam_jawab": "05:23:50.821"
+      },
+      {
+        "no": 5,
+        "q": "2/5 + 3/5",
+        "benar": true,
+        "jawaban_siswa": "1",
+        "waktu_ms": 2256,
+        "timestamp_jawab": "2026-10-17T22:23:53.282Z",
+        "jam_jawab": "05:23:53.282"
+      },
+      {
+        "no": 6,
+        "q": "2/3 x 3/4",
+        "benar": true,
+        "jawaban_siswa": "1/2",
+        "waktu_ms": 3217,
+        "timestamp_jawab": "2026-10-17T22:23:56.702Z",
+        "jam_jawab": "05:23:56.702"
+      },
+      {
+        "no": 7,
+        "q": "1/3 + 1/6",
+        "benar": true,
+        "jawaban_siswa": "1/2",
+        "waktu_ms": 4486,
+        "timestamp_jawab": "2026-10-17T22:24:01.391Z",
+        "jam_jawab": "05:24:01.391"
+      },
+      {
+        "no": 8,
+        "q": "4/5 - 2/5",
+        "benar": true,
+        "jawaban_siswa": "2/5",
+        "waktu_ms": 3680,
+        "timestamp_jawab": "2026-10-17T22:24:05.273Z",
+        "jam_jawab": "05:24:05.273"
+      },
+      {
+        "no": 9,
+        "q": "3/2 x 2",
+        "benar": true,
+        "jawaban_siswa": "3",
+        "waktu_ms": 2117,
+        "timestamp_jawab": "2026-10-17T22:24:07.590Z",
+        "jam_jawab": "05:24:07.590"
+      },
+      {
+        "no": 10,
+        "q": "1/4 + 1/4",
+        "benar": true,
+        "jawaban_siswa": "1/2",
+        "waktu_ms": 3462,
+        "timestamp_jawab": "2026-10-17T22:24:11.256Z",
+        "jam_jawab": "05:24:11.256"
+      }
+    ],
+    "log_kesalahan": []
+  },
+  {
+    "id": "demo_32_0_s1v",
+    "timestamp": "2026-09-17T05:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "andi",
+    "nama": "Andi Pratama",
+    "paket": "PAKET_21",
+    "skor": 5,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 53435,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 5117,
+        "timestamp_jawab": "2026-09-17T05:33:38.457Z",
+        "jam_jawab": "12:33:38.457"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 5434,
+        "timestamp_jawab": "2026-09-17T05:33:43.891Z",
+        "jam_jawab": "12:33:43.891"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 5751,
+        "timestamp_jawab": "2026-09-17T05:33:49.642Z",
+        "jam_jawab": "12:33:49.642"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 4868,
+        "timestamp_jawab": "2026-09-17T05:33:54.510Z",
+        "jam_jawab": "12:33:54.510"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 5185,
+        "timestamp_jawab": "2026-09-17T05:33:59.695Z",
+        "jam_jawab": "12:33:59.695"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": false,
+        "waktu_ms": 5502,
+        "timestamp_jawab": "2026-09-17T05:34:05.197Z",
+        "jam_jawab": "12:34:05.197"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": false,
+        "waktu_ms": 5819,
+        "timestamp_jawab": "2026-09-17T05:34:11.016Z",
+        "jam_jawab": "12:34:11.016"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 4936,
+        "timestamp_jawab": "2026-09-17T05:34:15.952Z",
+        "jam_jawab": "12:34:15.952"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 5253,
+        "timestamp_jawab": "2026-09-17T05:34:21.205Z",
+        "jam_jawab": "12:34:21.205"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 5570,
+        "timestamp_jawab": "2026-09-17T05:34:26.775Z",
+        "jam_jawab": "12:34:26.775"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (5 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_32_1_mnq",
+    "timestamp": "2026-09-17T04:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "budi",
+    "nama": "Budi Santoso",
+    "paket": "PAKET_25",
+    "skor": 6,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 51635,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 4937,
+        "timestamp_jawab": "2026-09-17T04:33:38.277Z",
+        "jam_jawab": "11:33:38.277"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 5254,
+        "timestamp_jawab": "2026-09-17T04:33:43.531Z",
+        "jam_jawab": "11:33:43.531"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 5571,
+        "timestamp_jawab": "2026-09-17T04:33:49.102Z",
+        "jam_jawab": "11:33:49.102"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 4688,
+        "timestamp_jawab": "2026-09-17T04:33:53.790Z",
+        "jam_jawab": "11:33:53.790"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 5005,
+        "timestamp_jawab": "2026-09-17T04:33:58.795Z",
+        "jam_jawab": "11:33:58.795"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 5322,
+        "timestamp_jawab": "2026-09-17T04:34:04.117Z",
+        "jam_jawab": "11:34:04.117"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": false,
+        "waktu_ms": 5639,
+        "timestamp_jawab": "2026-09-17T04:34:09.756Z",
+        "jam_jawab": "11:34:09.756"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 4756,
+        "timestamp_jawab": "2026-09-17T04:34:14.512Z",
+        "jam_jawab": "11:34:14.512"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 5073,
+        "timestamp_jawab": "2026-09-17T04:34:19.585Z",
+        "jam_jawab": "11:34:19.585"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 5390,
+        "timestamp_jawab": "2026-09-17T04:34:24.975Z",
+        "jam_jawab": "11:34:24.975"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (4 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_32_2_kay",
+    "timestamp": "2026-09-17T03:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "citra",
+    "nama": "Citra Lestari",
+    "paket": "PAKET_30",
+    "skor": 5,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 49835,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 4757,
+        "timestamp_jawab": "2026-09-17T03:33:38.097Z",
+        "jam_jawab": "10:33:38.097"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 5074,
+        "timestamp_jawab": "2026-09-17T03:33:43.171Z",
+        "jam_jawab": "10:33:43.171"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 5391,
+        "timestamp_jawab": "2026-09-17T03:33:48.562Z",
+        "jam_jawab": "10:33:48.562"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 4508,
+        "timestamp_jawab": "2026-09-17T03:33:53.070Z",
+        "jam_jawab": "10:33:53.070"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 4825,
+        "timestamp_jawab": "2026-09-17T03:33:57.895Z",
+        "jam_jawab": "10:33:57.895"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": false,
+        "waktu_ms": 5142,
+        "timestamp_jawab": "2026-09-17T03:34:03.037Z",
+        "jam_jawab": "10:34:03.037"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": false,
+        "waktu_ms": 5459,
+        "timestamp_jawab": "2026-09-17T03:34:08.496Z",
+        "jam_jawab": "10:34:08.496"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 4576,
+        "timestamp_jawab": "2026-09-17T03:34:13.072Z",
+        "jam_jawab": "10:34:13.072"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 4893,
+        "timestamp_jawab": "2026-09-17T03:34:17.965Z",
+        "jam_jawab": "10:34:17.965"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 5210,
+        "timestamp_jawab": "2026-09-17T03:34:23.175Z",
+        "jam_jawab": "10:34:23.175"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (5 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_32_3_4pf",
+    "timestamp": "2026-09-17T02:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "dinda",
+    "nama": "Dinda Kirana",
+    "paket": "PAKET_35",
+    "skor": 6,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 48035,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 4577,
+        "timestamp_jawab": "2026-09-17T02:33:37.917Z",
+        "jam_jawab": "09:33:37.917"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 4894,
+        "timestamp_jawab": "2026-09-17T02:33:42.811Z",
+        "jam_jawab": "09:33:42.811"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 5211,
+        "timestamp_jawab": "2026-09-17T02:33:48.022Z",
+        "jam_jawab": "09:33:48.022"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 4328,
+        "timestamp_jawab": "2026-09-17T02:33:52.350Z",
+        "jam_jawab": "09:33:52.350"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 4645,
+        "timestamp_jawab": "2026-09-17T02:33:56.995Z",
+        "jam_jawab": "09:33:56.995"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 4962,
+        "timestamp_jawab": "2026-09-17T02:34:01.957Z",
+        "jam_jawab": "09:34:01.957"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": false,
+        "waktu_ms": 5279,
+        "timestamp_jawab": "2026-09-17T02:34:07.236Z",
+        "jam_jawab": "09:34:07.236"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 4396,
+        "timestamp_jawab": "2026-09-17T02:34:11.632Z",
+        "jam_jawab": "09:34:11.632"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 4713,
+        "timestamp_jawab": "2026-09-17T02:34:16.345Z",
+        "jam_jawab": "09:34:16.345"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 5030,
+        "timestamp_jawab": "2026-09-17T02:34:21.375Z",
+        "jam_jawab": "09:34:21.375"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (4 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_30_0_jkh",
+    "timestamp": "2026-09-19T05:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "andi",
+    "nama": "Andi Pratama",
+    "paket": "PAKET_15",
+    "skor": 5,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 51685,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 4942,
+        "timestamp_jawab": "2026-09-19T05:33:38.282Z",
+        "jam_jawab": "12:33:38.282"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 5259,
+        "timestamp_jawab": "2026-09-19T05:33:43.541Z",
+        "jam_jawab": "12:33:43.541"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 5576,
+        "timestamp_jawab": "2026-09-19T05:33:49.117Z",
+        "jam_jawab": "12:33:49.117"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 4693,
+        "timestamp_jawab": "2026-09-19T05:33:53.810Z",
+        "jam_jawab": "12:33:53.810"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 5010,
+        "timestamp_jawab": "2026-09-19T05:33:58.820Z",
+        "jam_jawab": "12:33:58.820"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": false,
+        "waktu_ms": 5327,
+        "timestamp_jawab": "2026-09-19T05:34:04.147Z",
+        "jam_jawab": "12:34:04.147"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": false,
+        "waktu_ms": 5644,
+        "timestamp_jawab": "2026-09-19T05:34:09.791Z",
+        "jam_jawab": "12:34:09.791"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 4761,
+        "timestamp_jawab": "2026-09-19T05:34:14.552Z",
+        "jam_jawab": "12:34:14.552"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 5078,
+        "timestamp_jawab": "2026-09-19T05:34:19.630Z",
+        "jam_jawab": "12:34:19.630"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 5395,
+        "timestamp_jawab": "2026-09-19T05:34:25.025Z",
+        "jam_jawab": "12:34:25.025"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (5 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_30_1_bhf",
+    "timestamp": "2026-09-19T04:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "budi",
+    "nama": "Budi Santoso",
+    "paket": "PAKET_20",
+    "skor": 6,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 49885,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 4762,
+        "timestamp_jawab": "2026-09-19T04:33:38.102Z",
+        "jam_jawab": "11:33:38.102"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 5079,
+        "timestamp_jawab": "2026-09-19T04:33:43.181Z",
+        "jam_jawab": "11:33:43.181"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 5396,
+        "timestamp_jawab": "2026-09-19T04:33:48.577Z",
+        "jam_jawab": "11:33:48.577"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 4513,
+        "timestamp_jawab": "2026-09-19T04:33:53.090Z",
+        "jam_jawab": "11:33:53.090"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 4830,
+        "timestamp_jawab": "2026-09-19T04:33:57.920Z",
+        "jam_jawab": "11:33:57.920"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 5147,
+        "timestamp_jawab": "2026-09-19T04:34:03.067Z",
+        "jam_jawab": "11:34:03.067"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": false,
+        "waktu_ms": 5464,
+        "timestamp_jawab": "2026-09-19T04:34:08.531Z",
+        "jam_jawab": "11:34:08.531"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 4581,
+        "timestamp_jawab": "2026-09-19T04:34:13.112Z",
+        "jam_jawab": "11:34:13.112"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 4898,
+        "timestamp_jawab": "2026-09-19T04:34:18.010Z",
+        "jam_jawab": "11:34:18.010"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 5215,
+        "timestamp_jawab": "2026-09-19T04:34:23.225Z",
+        "jam_jawab": "11:34:23.225"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (4 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_30_2_guh",
+    "timestamp": "2026-09-19T03:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "citra",
+    "nama": "Citra Lestari",
+    "paket": "PAKET_21",
+    "skor": 5,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 48085,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 4582,
+        "timestamp_jawab": "2026-09-19T03:33:37.922Z",
+        "jam_jawab": "10:33:37.922"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 4899,
+        "timestamp_jawab": "2026-09-19T03:33:42.821Z",
+        "jam_jawab": "10:33:42.821"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 5216,
+        "timestamp_jawab": "2026-09-19T03:33:48.037Z",
+        "jam_jawab": "10:33:48.037"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 4333,
+        "timestamp_jawab": "2026-09-19T03:33:52.370Z",
+        "jam_jawab": "10:33:52.370"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 4650,
+        "timestamp_jawab": "2026-09-19T03:33:57.020Z",
+        "jam_jawab": "10:33:57.020"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": false,
+        "waktu_ms": 4967,
+        "timestamp_jawab": "2026-09-19T03:34:01.987Z",
+        "jam_jawab": "10:34:01.987"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": false,
+        "waktu_ms": 5284,
+        "timestamp_jawab": "2026-09-19T03:34:07.271Z",
+        "jam_jawab": "10:34:07.271"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 4401,
+        "timestamp_jawab": "2026-09-19T03:34:11.672Z",
+        "jam_jawab": "10:34:11.672"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 4718,
+        "timestamp_jawab": "2026-09-19T03:34:16.390Z",
+        "jam_jawab": "10:34:16.390"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 5035,
+        "timestamp_jawab": "2026-09-19T03:34:21.425Z",
+        "jam_jawab": "10:34:21.425"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (5 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_30_3_fxt",
+    "timestamp": "2026-09-19T02:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "dinda",
+    "nama": "Dinda Kirana",
+    "paket": "PAKET_25",
+    "skor": 6,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 46285,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 4402,
+        "timestamp_jawab": "2026-09-19T02:33:37.742Z",
+        "jam_jawab": "09:33:37.742"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 4719,
+        "timestamp_jawab": "2026-09-19T02:33:42.461Z",
+        "jam_jawab": "09:33:42.461"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 5036,
+        "timestamp_jawab": "2026-09-19T02:33:47.497Z",
+        "jam_jawab": "09:33:47.497"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 4153,
+        "timestamp_jawab": "2026-09-19T02:33:51.650Z",
+        "jam_jawab": "09:33:51.650"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 4470,
+        "timestamp_jawab": "2026-09-19T02:33:56.120Z",
+        "jam_jawab": "09:33:56.120"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 4787,
+        "timestamp_jawab": "2026-09-19T02:34:00.907Z",
+        "jam_jawab": "09:34:00.907"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": false,
+        "waktu_ms": 5104,
+        "timestamp_jawab": "2026-09-19T02:34:06.011Z",
+        "jam_jawab": "09:34:06.011"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 4221,
+        "timestamp_jawab": "2026-09-19T02:34:10.232Z",
+        "jam_jawab": "09:34:10.232"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 4538,
+        "timestamp_jawab": "2026-09-19T02:34:14.770Z",
+        "jam_jawab": "09:34:14.770"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 4855,
+        "timestamp_jawab": "2026-09-19T02:34:19.625Z",
+        "jam_jawab": "09:34:19.625"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (4 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_28_0_1pk",
+    "timestamp": "2026-09-21T05:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "andi",
+    "nama": "Andi Pratama",
+    "paket": "PAKET_5",
+    "skor": 6,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 49935,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 4767,
+        "timestamp_jawab": "2026-09-21T05:33:38.107Z",
+        "jam_jawab": "12:33:38.107"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 5084,
+        "timestamp_jawab": "2026-09-21T05:33:43.191Z",
+        "jam_jawab": "12:33:43.191"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 5401,
+        "timestamp_jawab": "2026-09-21T05:33:48.592Z",
+        "jam_jawab": "12:33:48.592"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 4518,
+        "timestamp_jawab": "2026-09-21T05:33:53.110Z",
+        "jam_jawab": "12:33:53.110"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 4835,
+        "timestamp_jawab": "2026-09-21T05:33:57.945Z",
+        "jam_jawab": "12:33:57.945"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 5152,
+        "timestamp_jawab": "2026-09-21T05:34:03.097Z",
+        "jam_jawab": "12:34:03.097"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": false,
+        "waktu_ms": 5469,
+        "timestamp_jawab": "2026-09-21T05:34:08.566Z",
+        "jam_jawab": "12:34:08.566"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 4586,
+        "timestamp_jawab": "2026-09-21T05:34:13.152Z",
+        "jam_jawab": "12:34:13.152"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 4903,
+        "timestamp_jawab": "2026-09-21T05:34:18.055Z",
+        "jam_jawab": "12:34:18.055"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 5220,
+        "timestamp_jawab": "2026-09-21T05:34:23.275Z",
+        "jam_jawab": "12:34:23.275"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (4 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_28_1_bro",
+    "timestamp": "2026-09-21T04:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "budi",
+    "nama": "Budi Santoso",
+    "paket": "PAKET_10",
+    "skor": 6,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 48135,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 4587,
+        "timestamp_jawab": "2026-09-21T04:33:37.927Z",
+        "jam_jawab": "11:33:37.927"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 4904,
+        "timestamp_jawab": "2026-09-21T04:33:42.831Z",
+        "jam_jawab": "11:33:42.831"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 5221,
+        "timestamp_jawab": "2026-09-21T04:33:48.052Z",
+        "jam_jawab": "11:33:48.052"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 4338,
+        "timestamp_jawab": "2026-09-21T04:33:52.390Z",
+        "jam_jawab": "11:33:52.390"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 4655,
+        "timestamp_jawab": "2026-09-21T04:33:57.045Z",
+        "jam_jawab": "11:33:57.045"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 4972,
+        "timestamp_jawab": "2026-09-21T04:34:02.017Z",
+        "jam_jawab": "11:34:02.017"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": false,
+        "waktu_ms": 5289,
+        "timestamp_jawab": "2026-09-21T04:34:07.306Z",
+        "jam_jawab": "11:34:07.306"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 4406,
+        "timestamp_jawab": "2026-09-21T04:34:11.712Z",
+        "jam_jawab": "11:34:11.712"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 4723,
+        "timestamp_jawab": "2026-09-21T04:34:16.435Z",
+        "jam_jawab": "11:34:16.435"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 5040,
+        "timestamp_jawab": "2026-09-21T04:34:21.475Z",
+        "jam_jawab": "11:34:21.475"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (4 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_28_2_96n",
+    "timestamp": "2026-09-21T03:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "citra",
+    "nama": "Citra Lestari",
+    "paket": "PAKET_15",
+    "skor": 6,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 46335,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 4407,
+        "timestamp_jawab": "2026-09-21T03:33:37.747Z",
+        "jam_jawab": "10:33:37.747"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 4724,
+        "timestamp_jawab": "2026-09-21T03:33:42.471Z",
+        "jam_jawab": "10:33:42.471"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 5041,
+        "timestamp_jawab": "2026-09-21T03:33:47.512Z",
+        "jam_jawab": "10:33:47.512"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 4158,
+        "timestamp_jawab": "2026-09-21T03:33:51.670Z",
+        "jam_jawab": "10:33:51.670"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 4475,
+        "timestamp_jawab": "2026-09-21T03:33:56.145Z",
+        "jam_jawab": "10:33:56.145"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 4792,
+        "timestamp_jawab": "2026-09-21T03:34:00.937Z",
+        "jam_jawab": "10:34:00.937"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": false,
+        "waktu_ms": 5109,
+        "timestamp_jawab": "2026-09-21T03:34:06.046Z",
+        "jam_jawab": "10:34:06.046"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 4226,
+        "timestamp_jawab": "2026-09-21T03:34:10.272Z",
+        "jam_jawab": "10:34:10.272"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 4543,
+        "timestamp_jawab": "2026-09-21T03:34:14.815Z",
+        "jam_jawab": "10:34:14.815"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 4860,
+        "timestamp_jawab": "2026-09-21T03:34:19.675Z",
+        "jam_jawab": "10:34:19.675"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (4 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_28_3_kpp",
+    "timestamp": "2026-09-21T02:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "dinda",
+    "nama": "Dinda Kirana",
+    "paket": "PAKET_20",
+    "skor": 6,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 44535,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 4227,
+        "timestamp_jawab": "2026-09-21T02:33:37.567Z",
+        "jam_jawab": "09:33:37.567"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 4544,
+        "timestamp_jawab": "2026-09-21T02:33:42.111Z",
+        "jam_jawab": "09:33:42.111"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 4861,
+        "timestamp_jawab": "2026-09-21T02:33:46.972Z",
+        "jam_jawab": "09:33:46.972"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 3978,
+        "timestamp_jawab": "2026-09-21T02:33:50.950Z",
+        "jam_jawab": "09:33:50.950"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 4295,
+        "timestamp_jawab": "2026-09-21T02:33:55.245Z",
+        "jam_jawab": "09:33:55.245"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 4612,
+        "timestamp_jawab": "2026-09-21T02:33:59.857Z",
+        "jam_jawab": "09:33:59.857"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": false,
+        "waktu_ms": 4929,
+        "timestamp_jawab": "2026-09-21T02:34:04.786Z",
+        "jam_jawab": "09:34:04.786"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 4046,
+        "timestamp_jawab": "2026-09-21T02:34:08.832Z",
+        "jam_jawab": "09:34:08.832"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 4363,
+        "timestamp_jawab": "2026-09-21T02:34:13.195Z",
+        "jam_jawab": "09:34:13.195"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 4680,
+        "timestamp_jawab": "2026-09-21T02:34:17.875Z",
+        "jam_jawab": "09:34:17.875"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (4 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_26_0_qwj",
+    "timestamp": "2026-09-23T05:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "andi",
+    "nama": "Andi Pratama",
+    "paket": "PAKET_1",
+    "skor": 6,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 48185,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 4592,
+        "timestamp_jawab": "2026-09-23T05:33:37.932Z",
+        "jam_jawab": "12:33:37.932"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 4909,
+        "timestamp_jawab": "2026-09-23T05:33:42.841Z",
+        "jam_jawab": "12:33:42.841"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 5226,
+        "timestamp_jawab": "2026-09-23T05:33:48.067Z",
+        "jam_jawab": "12:33:48.067"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 4343,
+        "timestamp_jawab": "2026-09-23T05:33:52.410Z",
+        "jam_jawab": "12:33:52.410"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 4660,
+        "timestamp_jawab": "2026-09-23T05:33:57.070Z",
+        "jam_jawab": "12:33:57.070"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 4977,
+        "timestamp_jawab": "2026-09-23T05:34:02.047Z",
+        "jam_jawab": "12:34:02.047"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": false,
+        "waktu_ms": 5294,
+        "timestamp_jawab": "2026-09-23T05:34:07.341Z",
+        "jam_jawab": "12:34:07.341"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 4411,
+        "timestamp_jawab": "2026-09-23T05:34:11.752Z",
+        "jam_jawab": "12:34:11.752"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 4728,
+        "timestamp_jawab": "2026-09-23T05:34:16.480Z",
+        "jam_jawab": "12:34:16.480"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 5045,
+        "timestamp_jawab": "2026-09-23T05:34:21.525Z",
+        "jam_jawab": "12:34:21.525"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (4 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_26_1_yav",
+    "timestamp": "2026-09-23T04:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "budi",
+    "nama": "Budi Santoso",
+    "paket": "PAKET_2",
+    "skor": 6,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 46385,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 4412,
+        "timestamp_jawab": "2026-09-23T04:33:37.752Z",
+        "jam_jawab": "11:33:37.752"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 4729,
+        "timestamp_jawab": "2026-09-23T04:33:42.481Z",
+        "jam_jawab": "11:33:42.481"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 5046,
+        "timestamp_jawab": "2026-09-23T04:33:47.527Z",
+        "jam_jawab": "11:33:47.527"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 4163,
+        "timestamp_jawab": "2026-09-23T04:33:51.690Z",
+        "jam_jawab": "11:33:51.690"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 4480,
+        "timestamp_jawab": "2026-09-23T04:33:56.170Z",
+        "jam_jawab": "11:33:56.170"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 4797,
+        "timestamp_jawab": "2026-09-23T04:34:00.967Z",
+        "jam_jawab": "11:34:00.967"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": false,
+        "waktu_ms": 5114,
+        "timestamp_jawab": "2026-09-23T04:34:06.081Z",
+        "jam_jawab": "11:34:06.081"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 4231,
+        "timestamp_jawab": "2026-09-23T04:34:10.312Z",
+        "jam_jawab": "11:34:10.312"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 4548,
+        "timestamp_jawab": "2026-09-23T04:34:14.860Z",
+        "jam_jawab": "11:34:14.860"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 4865,
+        "timestamp_jawab": "2026-09-23T04:34:19.725Z",
+        "jam_jawab": "11:34:19.725"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (4 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_26_2_vmj",
+    "timestamp": "2026-09-23T03:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "citra",
+    "nama": "Citra Lestari",
+    "paket": "PAKET_5",
+    "skor": 6,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 44585,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 4232,
+        "timestamp_jawab": "2026-09-23T03:33:37.572Z",
+        "jam_jawab": "10:33:37.572"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 4549,
+        "timestamp_jawab": "2026-09-23T03:33:42.121Z",
+        "jam_jawab": "10:33:42.121"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 4866,
+        "timestamp_jawab": "2026-09-23T03:33:46.987Z",
+        "jam_jawab": "10:33:46.987"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 3983,
+        "timestamp_jawab": "2026-09-23T03:33:50.970Z",
+        "jam_jawab": "10:33:50.970"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 4300,
+        "timestamp_jawab": "2026-09-23T03:33:55.270Z",
+        "jam_jawab": "10:33:55.270"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 4617,
+        "timestamp_jawab": "2026-09-23T03:33:59.887Z",
+        "jam_jawab": "10:33:59.887"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": false,
+        "waktu_ms": 4934,
+        "timestamp_jawab": "2026-09-23T03:34:04.821Z",
+        "jam_jawab": "10:34:04.821"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 4051,
+        "timestamp_jawab": "2026-09-23T03:34:08.872Z",
+        "jam_jawab": "10:34:08.872"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 4368,
+        "timestamp_jawab": "2026-09-23T03:34:13.240Z",
+        "jam_jawab": "10:34:13.240"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 4685,
+        "timestamp_jawab": "2026-09-23T03:34:17.925Z",
+        "jam_jawab": "10:34:17.925"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (4 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_26_3_0x9",
+    "timestamp": "2026-09-23T02:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "dinda",
+    "nama": "Dinda Kirana",
+    "paket": "PAKET_10",
+    "skor": 6,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 42785,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 4052,
+        "timestamp_jawab": "2026-09-23T02:33:37.392Z",
+        "jam_jawab": "09:33:37.392"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 4369,
+        "timestamp_jawab": "2026-09-23T02:33:41.761Z",
+        "jam_jawab": "09:33:41.761"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 4686,
+        "timestamp_jawab": "2026-09-23T02:33:46.447Z",
+        "jam_jawab": "09:33:46.447"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 3803,
+        "timestamp_jawab": "2026-09-23T02:33:50.250Z",
+        "jam_jawab": "09:33:50.250"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 4120,
+        "timestamp_jawab": "2026-09-23T02:33:54.370Z",
+        "jam_jawab": "09:33:54.370"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 4437,
+        "timestamp_jawab": "2026-09-23T02:33:58.807Z",
+        "jam_jawab": "09:33:58.807"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": false,
+        "waktu_ms": 4754,
+        "timestamp_jawab": "2026-09-23T02:34:03.561Z",
+        "jam_jawab": "09:34:03.561"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 3871,
+        "timestamp_jawab": "2026-09-23T02:34:07.432Z",
+        "jam_jawab": "09:34:07.432"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 4188,
+        "timestamp_jawab": "2026-09-23T02:34:11.620Z",
+        "jam_jawab": "09:34:11.620"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 4505,
+        "timestamp_jawab": "2026-09-23T02:34:16.125Z",
+        "jam_jawab": "09:34:16.125"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (4 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_24_0_do1",
+    "timestamp": "2026-09-25T05:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "andi",
+    "nama": "Andi Pratama",
+    "paket": "PAKET_95",
+    "skor": 6,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 46435,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 4417,
+        "timestamp_jawab": "2026-09-25T05:33:37.757Z",
+        "jam_jawab": "12:33:37.757"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 4734,
+        "timestamp_jawab": "2026-09-25T05:33:42.491Z",
+        "jam_jawab": "12:33:42.491"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 5051,
+        "timestamp_jawab": "2026-09-25T05:33:47.542Z",
+        "jam_jawab": "12:33:47.542"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 4168,
+        "timestamp_jawab": "2026-09-25T05:33:51.710Z",
+        "jam_jawab": "12:33:51.710"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 4485,
+        "timestamp_jawab": "2026-09-25T05:33:56.195Z",
+        "jam_jawab": "12:33:56.195"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 4802,
+        "timestamp_jawab": "2026-09-25T05:34:00.997Z",
+        "jam_jawab": "12:34:00.997"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": false,
+        "waktu_ms": 5119,
+        "timestamp_jawab": "2026-09-25T05:34:06.116Z",
+        "jam_jawab": "12:34:06.116"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 4236,
+        "timestamp_jawab": "2026-09-25T05:34:10.352Z",
+        "jam_jawab": "12:34:10.352"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 4553,
+        "timestamp_jawab": "2026-09-25T05:34:14.905Z",
+        "jam_jawab": "12:34:14.905"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 4870,
+        "timestamp_jawab": "2026-09-25T05:34:19.775Z",
+        "jam_jawab": "12:34:19.775"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (4 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_24_1_6vb",
+    "timestamp": "2026-09-25T04:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "budi",
+    "nama": "Budi Santoso",
+    "paket": "PAKET_100",
+    "skor": 7,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 44635,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 4237,
+        "timestamp_jawab": "2026-09-25T04:33:37.577Z",
+        "jam_jawab": "11:33:37.577"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 4554,
+        "timestamp_jawab": "2026-09-25T04:33:42.131Z",
+        "jam_jawab": "11:33:42.131"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 4871,
+        "timestamp_jawab": "2026-09-25T04:33:47.002Z",
+        "jam_jawab": "11:33:47.002"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 3988,
+        "timestamp_jawab": "2026-09-25T04:33:50.990Z",
+        "jam_jawab": "11:33:50.990"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 4305,
+        "timestamp_jawab": "2026-09-25T04:33:55.295Z",
+        "jam_jawab": "11:33:55.295"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 4622,
+        "timestamp_jawab": "2026-09-25T04:33:59.917Z",
+        "jam_jawab": "11:33:59.917"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 4939,
+        "timestamp_jawab": "2026-09-25T04:34:04.856Z",
+        "jam_jawab": "11:34:04.856"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 4056,
+        "timestamp_jawab": "2026-09-25T04:34:08.912Z",
+        "jam_jawab": "11:34:08.912"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 4373,
+        "timestamp_jawab": "2026-09-25T04:34:13.285Z",
+        "jam_jawab": "11:34:13.285"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 4690,
+        "timestamp_jawab": "2026-09-25T04:34:17.975Z",
+        "jam_jawab": "11:34:17.975"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (3 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_24_2_tcr",
+    "timestamp": "2026-09-25T03:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "citra",
+    "nama": "Citra Lestari",
+    "paket": "PAKET_1",
+    "skor": 6,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 42835,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 4057,
+        "timestamp_jawab": "2026-09-25T03:33:37.397Z",
+        "jam_jawab": "10:33:37.397"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 4374,
+        "timestamp_jawab": "2026-09-25T03:33:41.771Z",
+        "jam_jawab": "10:33:41.771"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 4691,
+        "timestamp_jawab": "2026-09-25T03:33:46.462Z",
+        "jam_jawab": "10:33:46.462"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 3808,
+        "timestamp_jawab": "2026-09-25T03:33:50.270Z",
+        "jam_jawab": "10:33:50.270"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 4125,
+        "timestamp_jawab": "2026-09-25T03:33:54.395Z",
+        "jam_jawab": "10:33:54.395"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 4442,
+        "timestamp_jawab": "2026-09-25T03:33:58.837Z",
+        "jam_jawab": "10:33:58.837"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": false,
+        "waktu_ms": 4759,
+        "timestamp_jawab": "2026-09-25T03:34:03.596Z",
+        "jam_jawab": "10:34:03.596"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 3876,
+        "timestamp_jawab": "2026-09-25T03:34:07.472Z",
+        "jam_jawab": "10:34:07.472"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 4193,
+        "timestamp_jawab": "2026-09-25T03:34:11.665Z",
+        "jam_jawab": "10:34:11.665"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 4510,
+        "timestamp_jawab": "2026-09-25T03:34:16.175Z",
+        "jam_jawab": "10:34:16.175"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (4 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_24_3_4bj",
+    "timestamp": "2026-09-25T02:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "dinda",
+    "nama": "Dinda Kirana",
+    "paket": "PAKET_2",
+    "skor": 7,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 41035,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 3877,
+        "timestamp_jawab": "2026-09-25T02:33:37.217Z",
+        "jam_jawab": "09:33:37.217"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 4194,
+        "timestamp_jawab": "2026-09-25T02:33:41.411Z",
+        "jam_jawab": "09:33:41.411"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 4511,
+        "timestamp_jawab": "2026-09-25T02:33:45.922Z",
+        "jam_jawab": "09:33:45.922"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 3628,
+        "timestamp_jawab": "2026-09-25T02:33:49.550Z",
+        "jam_jawab": "09:33:49.550"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 3945,
+        "timestamp_jawab": "2026-09-25T02:33:53.495Z",
+        "jam_jawab": "09:33:53.495"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 4262,
+        "timestamp_jawab": "2026-09-25T02:33:57.757Z",
+        "jam_jawab": "09:33:57.757"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 4579,
+        "timestamp_jawab": "2026-09-25T02:34:02.336Z",
+        "jam_jawab": "09:34:02.336"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 3696,
+        "timestamp_jawab": "2026-09-25T02:34:06.032Z",
+        "jam_jawab": "09:34:06.032"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 4013,
+        "timestamp_jawab": "2026-09-25T02:34:10.045Z",
+        "jam_jawab": "09:34:10.045"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 4330,
+        "timestamp_jawab": "2026-09-25T02:34:14.375Z",
+        "jam_jawab": "09:34:14.375"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (3 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_22_0_yxx",
+    "timestamp": "2026-09-27T05:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "andi",
+    "nama": "Andi Pratama",
+    "paket": "PAKET_85",
+    "skor": 6,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 44685,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 4242,
+        "timestamp_jawab": "2026-09-27T05:33:37.582Z",
+        "jam_jawab": "12:33:37.582"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 4559,
+        "timestamp_jawab": "2026-09-27T05:33:42.141Z",
+        "jam_jawab": "12:33:42.141"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 4876,
+        "timestamp_jawab": "2026-09-27T05:33:47.017Z",
+        "jam_jawab": "12:33:47.017"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 3993,
+        "timestamp_jawab": "2026-09-27T05:33:51.010Z",
+        "jam_jawab": "12:33:51.010"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 4310,
+        "timestamp_jawab": "2026-09-27T05:33:55.320Z",
+        "jam_jawab": "12:33:55.320"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 4627,
+        "timestamp_jawab": "2026-09-27T05:33:59.947Z",
+        "jam_jawab": "12:33:59.947"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": false,
+        "waktu_ms": 4944,
+        "timestamp_jawab": "2026-09-27T05:34:04.891Z",
+        "jam_jawab": "12:34:04.891"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 4061,
+        "timestamp_jawab": "2026-09-27T05:34:08.952Z",
+        "jam_jawab": "12:34:08.952"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 4378,
+        "timestamp_jawab": "2026-09-27T05:34:13.330Z",
+        "jam_jawab": "12:34:13.330"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 4695,
+        "timestamp_jawab": "2026-09-27T05:34:18.025Z",
+        "jam_jawab": "12:34:18.025"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (4 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_22_1_1hf",
+    "timestamp": "2026-09-27T04:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "budi",
+    "nama": "Budi Santoso",
+    "paket": "PAKET_90",
+    "skor": 7,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 42885,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 4062,
+        "timestamp_jawab": "2026-09-27T04:33:37.402Z",
+        "jam_jawab": "11:33:37.402"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 4379,
+        "timestamp_jawab": "2026-09-27T04:33:41.781Z",
+        "jam_jawab": "11:33:41.781"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 4696,
+        "timestamp_jawab": "2026-09-27T04:33:46.477Z",
+        "jam_jawab": "11:33:46.477"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 3813,
+        "timestamp_jawab": "2026-09-27T04:33:50.290Z",
+        "jam_jawab": "11:33:50.290"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 4130,
+        "timestamp_jawab": "2026-09-27T04:33:54.420Z",
+        "jam_jawab": "11:33:54.420"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 4447,
+        "timestamp_jawab": "2026-09-27T04:33:58.867Z",
+        "jam_jawab": "11:33:58.867"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 4764,
+        "timestamp_jawab": "2026-09-27T04:34:03.631Z",
+        "jam_jawab": "11:34:03.631"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 3881,
+        "timestamp_jawab": "2026-09-27T04:34:07.512Z",
+        "jam_jawab": "11:34:07.512"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 4198,
+        "timestamp_jawab": "2026-09-27T04:34:11.710Z",
+        "jam_jawab": "11:34:11.710"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 4515,
+        "timestamp_jawab": "2026-09-27T04:34:16.225Z",
+        "jam_jawab": "11:34:16.225"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (3 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_22_2_eg3",
+    "timestamp": "2026-09-27T03:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "citra",
+    "nama": "Citra Lestari",
+    "paket": "PAKET_95",
+    "skor": 6,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 41085,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 3882,
+        "timestamp_jawab": "2026-09-27T03:33:37.222Z",
+        "jam_jawab": "10:33:37.222"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 4199,
+        "timestamp_jawab": "2026-09-27T03:33:41.421Z",
+        "jam_jawab": "10:33:41.421"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 4516,
+        "timestamp_jawab": "2026-09-27T03:33:45.937Z",
+        "jam_jawab": "10:33:45.937"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 3633,
+        "timestamp_jawab": "2026-09-27T03:33:49.570Z",
+        "jam_jawab": "10:33:49.570"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 3950,
+        "timestamp_jawab": "2026-09-27T03:33:53.520Z",
+        "jam_jawab": "10:33:53.520"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 4267,
+        "timestamp_jawab": "2026-09-27T03:33:57.787Z",
+        "jam_jawab": "10:33:57.787"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": false,
+        "waktu_ms": 4584,
+        "timestamp_jawab": "2026-09-27T03:34:02.371Z",
+        "jam_jawab": "10:34:02.371"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 3701,
+        "timestamp_jawab": "2026-09-27T03:34:06.072Z",
+        "jam_jawab": "10:34:06.072"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 4018,
+        "timestamp_jawab": "2026-09-27T03:34:10.090Z",
+        "jam_jawab": "10:34:10.090"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 4335,
+        "timestamp_jawab": "2026-09-27T03:34:14.425Z",
+        "jam_jawab": "10:34:14.425"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (4 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_22_3_1vs",
+    "timestamp": "2026-09-27T02:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "dinda",
+    "nama": "Dinda Kirana",
+    "paket": "PAKET_100",
+    "skor": 7,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 39285,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 3702,
+        "timestamp_jawab": "2026-09-27T02:33:37.042Z",
+        "jam_jawab": "09:33:37.042"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 4019,
+        "timestamp_jawab": "2026-09-27T02:33:41.061Z",
+        "jam_jawab": "09:33:41.061"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 4336,
+        "timestamp_jawab": "2026-09-27T02:33:45.397Z",
+        "jam_jawab": "09:33:45.397"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 3453,
+        "timestamp_jawab": "2026-09-27T02:33:48.850Z",
+        "jam_jawab": "09:33:48.850"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 3770,
+        "timestamp_jawab": "2026-09-27T02:33:52.620Z",
+        "jam_jawab": "09:33:52.620"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 4087,
+        "timestamp_jawab": "2026-09-27T02:33:56.707Z",
+        "jam_jawab": "09:33:56.707"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 4404,
+        "timestamp_jawab": "2026-09-27T02:34:01.111Z",
+        "jam_jawab": "09:34:01.111"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 3521,
+        "timestamp_jawab": "2026-09-27T02:34:04.632Z",
+        "jam_jawab": "09:34:04.632"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 3838,
+        "timestamp_jawab": "2026-09-27T02:34:08.470Z",
+        "jam_jawab": "09:34:08.470"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 4155,
+        "timestamp_jawab": "2026-09-27T02:34:12.625Z",
+        "jam_jawab": "09:34:12.625"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (3 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_20_0_8ym",
+    "timestamp": "2026-09-29T05:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "andi",
+    "nama": "Andi Pratama",
+    "paket": "PAKET_80",
+    "skor": 7,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 42935,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 4067,
+        "timestamp_jawab": "2026-09-29T05:33:37.407Z",
+        "jam_jawab": "12:33:37.407"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 4384,
+        "timestamp_jawab": "2026-09-29T05:33:41.791Z",
+        "jam_jawab": "12:33:41.791"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 4701,
+        "timestamp_jawab": "2026-09-29T05:33:46.492Z",
+        "jam_jawab": "12:33:46.492"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 3818,
+        "timestamp_jawab": "2026-09-29T05:33:50.310Z",
+        "jam_jawab": "12:33:50.310"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 4135,
+        "timestamp_jawab": "2026-09-29T05:33:54.445Z",
+        "jam_jawab": "12:33:54.445"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 4452,
+        "timestamp_jawab": "2026-09-29T05:33:58.897Z",
+        "jam_jawab": "12:33:58.897"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 4769,
+        "timestamp_jawab": "2026-09-29T05:34:03.666Z",
+        "jam_jawab": "12:34:03.666"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 3886,
+        "timestamp_jawab": "2026-09-29T05:34:07.552Z",
+        "jam_jawab": "12:34:07.552"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 4203,
+        "timestamp_jawab": "2026-09-29T05:34:11.755Z",
+        "jam_jawab": "12:34:11.755"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 4520,
+        "timestamp_jawab": "2026-09-29T05:34:16.275Z",
+        "jam_jawab": "12:34:16.275"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (3 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_20_1_lvw",
+    "timestamp": "2026-09-29T04:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "budi",
+    "nama": "Budi Santoso",
+    "paket": "PAKET_81",
+    "skor": 7,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 41135,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 3887,
+        "timestamp_jawab": "2026-09-29T04:33:37.227Z",
+        "jam_jawab": "11:33:37.227"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 4204,
+        "timestamp_jawab": "2026-09-29T04:33:41.431Z",
+        "jam_jawab": "11:33:41.431"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 4521,
+        "timestamp_jawab": "2026-09-29T04:33:45.952Z",
+        "jam_jawab": "11:33:45.952"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 3638,
+        "timestamp_jawab": "2026-09-29T04:33:49.590Z",
+        "jam_jawab": "11:33:49.590"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 3955,
+        "timestamp_jawab": "2026-09-29T04:33:53.545Z",
+        "jam_jawab": "11:33:53.545"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 4272,
+        "timestamp_jawab": "2026-09-29T04:33:57.817Z",
+        "jam_jawab": "11:33:57.817"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 4589,
+        "timestamp_jawab": "2026-09-29T04:34:02.406Z",
+        "jam_jawab": "11:34:02.406"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 3706,
+        "timestamp_jawab": "2026-09-29T04:34:06.112Z",
+        "jam_jawab": "11:34:06.112"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 4023,
+        "timestamp_jawab": "2026-09-29T04:34:10.135Z",
+        "jam_jawab": "11:34:10.135"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 4340,
+        "timestamp_jawab": "2026-09-29T04:34:14.475Z",
+        "jam_jawab": "11:34:14.475"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (3 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_20_2_uw4",
+    "timestamp": "2026-09-29T03:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "citra",
+    "nama": "Citra Lestari",
+    "paket": "PAKET_85",
+    "skor": 7,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 39335,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 3707,
+        "timestamp_jawab": "2026-09-29T03:33:37.047Z",
+        "jam_jawab": "10:33:37.047"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 4024,
+        "timestamp_jawab": "2026-09-29T03:33:41.071Z",
+        "jam_jawab": "10:33:41.071"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 4341,
+        "timestamp_jawab": "2026-09-29T03:33:45.412Z",
+        "jam_jawab": "10:33:45.412"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 3458,
+        "timestamp_jawab": "2026-09-29T03:33:48.870Z",
+        "jam_jawab": "10:33:48.870"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 3775,
+        "timestamp_jawab": "2026-09-29T03:33:52.645Z",
+        "jam_jawab": "10:33:52.645"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 4092,
+        "timestamp_jawab": "2026-09-29T03:33:56.737Z",
+        "jam_jawab": "10:33:56.737"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 4409,
+        "timestamp_jawab": "2026-09-29T03:34:01.146Z",
+        "jam_jawab": "10:34:01.146"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 3526,
+        "timestamp_jawab": "2026-09-29T03:34:04.672Z",
+        "jam_jawab": "10:34:04.672"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 3843,
+        "timestamp_jawab": "2026-09-29T03:34:08.515Z",
+        "jam_jawab": "10:34:08.515"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 4160,
+        "timestamp_jawab": "2026-09-29T03:34:12.675Z",
+        "jam_jawab": "10:34:12.675"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (3 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_20_3_tsq",
+    "timestamp": "2026-09-29T02:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "dinda",
+    "nama": "Dinda Kirana",
+    "paket": "PAKET_90",
+    "skor": 7,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 37535,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 3527,
+        "timestamp_jawab": "2026-09-29T02:33:36.867Z",
+        "jam_jawab": "09:33:36.867"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 3844,
+        "timestamp_jawab": "2026-09-29T02:33:40.711Z",
+        "jam_jawab": "09:33:40.711"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 4161,
+        "timestamp_jawab": "2026-09-29T02:33:44.872Z",
+        "jam_jawab": "09:33:44.872"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 3278,
+        "timestamp_jawab": "2026-09-29T02:33:48.150Z",
+        "jam_jawab": "09:33:48.150"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 3595,
+        "timestamp_jawab": "2026-09-29T02:33:51.745Z",
+        "jam_jawab": "09:33:51.745"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 3912,
+        "timestamp_jawab": "2026-09-29T02:33:55.657Z",
+        "jam_jawab": "09:33:55.657"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 4229,
+        "timestamp_jawab": "2026-09-29T02:33:59.886Z",
+        "jam_jawab": "09:33:59.886"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 3346,
+        "timestamp_jawab": "2026-09-29T02:34:03.232Z",
+        "jam_jawab": "09:34:03.232"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 3663,
+        "timestamp_jawab": "2026-09-29T02:34:06.895Z",
+        "jam_jawab": "09:34:06.895"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 3980,
+        "timestamp_jawab": "2026-09-29T02:34:10.875Z",
+        "jam_jawab": "09:34:10.875"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (3 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_18_0_7ju",
+    "timestamp": "2026-10-01T05:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "andi",
+    "nama": "Andi Pratama",
+    "paket": "PAKET_70",
+    "skor": 7,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 41185,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 3892,
+        "timestamp_jawab": "2026-10-01T05:33:37.232Z",
+        "jam_jawab": "12:33:37.232"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 4209,
+        "timestamp_jawab": "2026-10-01T05:33:41.441Z",
+        "jam_jawab": "12:33:41.441"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 4526,
+        "timestamp_jawab": "2026-10-01T05:33:45.967Z",
+        "jam_jawab": "12:33:45.967"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 3643,
+        "timestamp_jawab": "2026-10-01T05:33:49.610Z",
+        "jam_jawab": "12:33:49.610"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 3960,
+        "timestamp_jawab": "2026-10-01T05:33:53.570Z",
+        "jam_jawab": "12:33:53.570"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 4277,
+        "timestamp_jawab": "2026-10-01T05:33:57.847Z",
+        "jam_jawab": "12:33:57.847"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 4594,
+        "timestamp_jawab": "2026-10-01T05:34:02.441Z",
+        "jam_jawab": "12:34:02.441"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 3711,
+        "timestamp_jawab": "2026-10-01T05:34:06.152Z",
+        "jam_jawab": "12:34:06.152"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 4028,
+        "timestamp_jawab": "2026-10-01T05:34:10.180Z",
+        "jam_jawab": "12:34:10.180"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 4345,
+        "timestamp_jawab": "2026-10-01T05:34:14.525Z",
+        "jam_jawab": "12:34:14.525"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (3 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_18_1_1l1",
+    "timestamp": "2026-10-01T04:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "budi",
+    "nama": "Budi Santoso",
+    "paket": "PAKET_75",
+    "skor": 7,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 39385,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 3712,
+        "timestamp_jawab": "2026-10-01T04:33:37.052Z",
+        "jam_jawab": "11:33:37.052"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 4029,
+        "timestamp_jawab": "2026-10-01T04:33:41.081Z",
+        "jam_jawab": "11:33:41.081"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 4346,
+        "timestamp_jawab": "2026-10-01T04:33:45.427Z",
+        "jam_jawab": "11:33:45.427"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 3463,
+        "timestamp_jawab": "2026-10-01T04:33:48.890Z",
+        "jam_jawab": "11:33:48.890"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 3780,
+        "timestamp_jawab": "2026-10-01T04:33:52.670Z",
+        "jam_jawab": "11:33:52.670"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 4097,
+        "timestamp_jawab": "2026-10-01T04:33:56.767Z",
+        "jam_jawab": "11:33:56.767"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 4414,
+        "timestamp_jawab": "2026-10-01T04:34:01.181Z",
+        "jam_jawab": "11:34:01.181"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 3531,
+        "timestamp_jawab": "2026-10-01T04:34:04.712Z",
+        "jam_jawab": "11:34:04.712"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 3848,
+        "timestamp_jawab": "2026-10-01T04:34:08.560Z",
+        "jam_jawab": "11:34:08.560"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 4165,
+        "timestamp_jawab": "2026-10-01T04:34:12.725Z",
+        "jam_jawab": "11:34:12.725"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (3 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_18_2_zur",
+    "timestamp": "2026-10-01T03:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "citra",
+    "nama": "Citra Lestari",
+    "paket": "PAKET_80",
+    "skor": 7,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 37585,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 3532,
+        "timestamp_jawab": "2026-10-01T03:33:36.872Z",
+        "jam_jawab": "10:33:36.872"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 3849,
+        "timestamp_jawab": "2026-10-01T03:33:40.721Z",
+        "jam_jawab": "10:33:40.721"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 4166,
+        "timestamp_jawab": "2026-10-01T03:33:44.887Z",
+        "jam_jawab": "10:33:44.887"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 3283,
+        "timestamp_jawab": "2026-10-01T03:33:48.170Z",
+        "jam_jawab": "10:33:48.170"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 3600,
+        "timestamp_jawab": "2026-10-01T03:33:51.770Z",
+        "jam_jawab": "10:33:51.770"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 3917,
+        "timestamp_jawab": "2026-10-01T03:33:55.687Z",
+        "jam_jawab": "10:33:55.687"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 4234,
+        "timestamp_jawab": "2026-10-01T03:33:59.921Z",
+        "jam_jawab": "10:33:59.921"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 3351,
+        "timestamp_jawab": "2026-10-01T03:34:03.272Z",
+        "jam_jawab": "10:34:03.272"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 3668,
+        "timestamp_jawab": "2026-10-01T03:34:06.940Z",
+        "jam_jawab": "10:34:06.940"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 3985,
+        "timestamp_jawab": "2026-10-01T03:34:10.925Z",
+        "jam_jawab": "10:34:10.925"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (3 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_18_3_5p3",
+    "timestamp": "2026-10-01T02:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "dinda",
+    "nama": "Dinda Kirana",
+    "paket": "PAKET_81",
+    "skor": 7,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 35785,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 3352,
+        "timestamp_jawab": "2026-10-01T02:33:36.692Z",
+        "jam_jawab": "09:33:36.692"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 3669,
+        "timestamp_jawab": "2026-10-01T02:33:40.361Z",
+        "jam_jawab": "09:33:40.361"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 3986,
+        "timestamp_jawab": "2026-10-01T02:33:44.347Z",
+        "jam_jawab": "09:33:44.347"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 3103,
+        "timestamp_jawab": "2026-10-01T02:33:47.450Z",
+        "jam_jawab": "09:33:47.450"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 3420,
+        "timestamp_jawab": "2026-10-01T02:33:50.870Z",
+        "jam_jawab": "09:33:50.870"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 3737,
+        "timestamp_jawab": "2026-10-01T02:33:54.607Z",
+        "jam_jawab": "09:33:54.607"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 4054,
+        "timestamp_jawab": "2026-10-01T02:33:58.661Z",
+        "jam_jawab": "09:33:58.661"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 3171,
+        "timestamp_jawab": "2026-10-01T02:34:01.832Z",
+        "jam_jawab": "09:34:01.832"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 3488,
+        "timestamp_jawab": "2026-10-01T02:34:05.320Z",
+        "jam_jawab": "09:34:05.320"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 3805,
+        "timestamp_jawab": "2026-10-01T02:34:09.125Z",
+        "jam_jawab": "09:34:09.125"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (3 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_16_0_jyq",
+    "timestamp": "2026-10-03T05:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "andi",
+    "nama": "Andi Pratama",
+    "paket": "PAKET_61",
+    "skor": 7,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 39435,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 3717,
+        "timestamp_jawab": "2026-10-03T05:33:37.057Z",
+        "jam_jawab": "12:33:37.057"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 4034,
+        "timestamp_jawab": "2026-10-03T05:33:41.091Z",
+        "jam_jawab": "12:33:41.091"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 4351,
+        "timestamp_jawab": "2026-10-03T05:33:45.442Z",
+        "jam_jawab": "12:33:45.442"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 3468,
+        "timestamp_jawab": "2026-10-03T05:33:48.910Z",
+        "jam_jawab": "12:33:48.910"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 3785,
+        "timestamp_jawab": "2026-10-03T05:33:52.695Z",
+        "jam_jawab": "12:33:52.695"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 4102,
+        "timestamp_jawab": "2026-10-03T05:33:56.797Z",
+        "jam_jawab": "12:33:56.797"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 4419,
+        "timestamp_jawab": "2026-10-03T05:34:01.216Z",
+        "jam_jawab": "12:34:01.216"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 3536,
+        "timestamp_jawab": "2026-10-03T05:34:04.752Z",
+        "jam_jawab": "12:34:04.752"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 3853,
+        "timestamp_jawab": "2026-10-03T05:34:08.605Z",
+        "jam_jawab": "12:34:08.605"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 4170,
+        "timestamp_jawab": "2026-10-03T05:34:12.775Z",
+        "jam_jawab": "12:34:12.775"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (3 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_16_1_vax",
+    "timestamp": "2026-10-03T04:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "budi",
+    "nama": "Budi Santoso",
+    "paket": "PAKET_65",
+    "skor": 8,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 37635,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 3537,
+        "timestamp_jawab": "2026-10-03T04:33:36.877Z",
+        "jam_jawab": "11:33:36.877"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 3854,
+        "timestamp_jawab": "2026-10-03T04:33:40.731Z",
+        "jam_jawab": "11:33:40.731"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 4171,
+        "timestamp_jawab": "2026-10-03T04:33:44.902Z",
+        "jam_jawab": "11:33:44.902"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 3288,
+        "timestamp_jawab": "2026-10-03T04:33:48.190Z",
+        "jam_jawab": "11:33:48.190"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 3605,
+        "timestamp_jawab": "2026-10-03T04:33:51.795Z",
+        "jam_jawab": "11:33:51.795"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 3922,
+        "timestamp_jawab": "2026-10-03T04:33:55.717Z",
+        "jam_jawab": "11:33:55.717"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 4239,
+        "timestamp_jawab": "2026-10-03T04:33:59.956Z",
+        "jam_jawab": "11:33:59.956"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 3356,
+        "timestamp_jawab": "2026-10-03T04:34:03.312Z",
+        "jam_jawab": "11:34:03.312"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 3673,
+        "timestamp_jawab": "2026-10-03T04:34:06.985Z",
+        "jam_jawab": "11:34:06.985"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 3990,
+        "timestamp_jawab": "2026-10-03T04:34:10.975Z",
+        "jam_jawab": "11:34:10.975"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (2 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_16_2_avz",
+    "timestamp": "2026-10-03T03:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "citra",
+    "nama": "Citra Lestari",
+    "paket": "PAKET_70",
+    "skor": 7,
+    "sisa_nyawa": 1,
+    "total_waktu_ms": 35835,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 3357,
+        "timestamp_jawab": "2026-10-03T03:33:36.697Z",
+        "jam_jawab": "10:33:36.697"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 3674,
+        "timestamp_jawab": "2026-10-03T03:33:40.371Z",
+        "jam_jawab": "10:33:40.371"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 3991,
+        "timestamp_jawab": "2026-10-03T03:33:44.362Z",
+        "jam_jawab": "10:33:44.362"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 3108,
+        "timestamp_jawab": "2026-10-03T03:33:47.470Z",
+        "jam_jawab": "10:33:47.470"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 3425,
+        "timestamp_jawab": "2026-10-03T03:33:50.895Z",
+        "jam_jawab": "10:33:50.895"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 3742,
+        "timestamp_jawab": "2026-10-03T03:33:54.637Z",
+        "jam_jawab": "10:33:54.637"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 4059,
+        "timestamp_jawab": "2026-10-03T03:33:58.696Z",
+        "jam_jawab": "10:33:58.696"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": false,
+        "waktu_ms": 3176,
+        "timestamp_jawab": "2026-10-03T03:34:01.872Z",
+        "jam_jawab": "10:34:01.872"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 3493,
+        "timestamp_jawab": "2026-10-03T03:34:05.365Z",
+        "jam_jawab": "10:34:05.365"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 3810,
+        "timestamp_jawab": "2026-10-03T03:34:09.175Z",
+        "jam_jawab": "10:34:09.175"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (3 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_16_3_jzo",
+    "timestamp": "2026-10-03T02:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "dinda",
+    "nama": "Dinda Kirana",
+    "paket": "PAKET_75",
+    "skor": 8,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 34035,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 3177,
+        "timestamp_jawab": "2026-10-03T02:33:36.517Z",
+        "jam_jawab": "09:33:36.517"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 3494,
+        "timestamp_jawab": "2026-10-03T02:33:40.011Z",
+        "jam_jawab": "09:33:40.011"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 3811,
+        "timestamp_jawab": "2026-10-03T02:33:43.822Z",
+        "jam_jawab": "09:33:43.822"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 2928,
+        "timestamp_jawab": "2026-10-03T02:33:46.750Z",
+        "jam_jawab": "09:33:46.750"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 3245,
+        "timestamp_jawab": "2026-10-03T02:33:49.995Z",
+        "jam_jawab": "09:33:49.995"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 3562,
+        "timestamp_jawab": "2026-10-03T02:33:53.557Z",
+        "jam_jawab": "09:33:53.557"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 3879,
+        "timestamp_jawab": "2026-10-03T02:33:57.436Z",
+        "jam_jawab": "09:33:57.436"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 2996,
+        "timestamp_jawab": "2026-10-03T02:34:00.432Z",
+        "jam_jawab": "09:34:00.432"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 3313,
+        "timestamp_jawab": "2026-10-03T02:34:03.745Z",
+        "jam_jawab": "09:34:03.745"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 3630,
+        "timestamp_jawab": "2026-10-03T02:34:07.375Z",
+        "jam_jawab": "09:34:07.375"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (2 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_14_0_6f4",
+    "timestamp": "2026-10-05T05:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "andi",
+    "nama": "Andi Pratama",
+    "paket": "PAKET_55",
+    "skor": 8,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 37685,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 3542,
+        "timestamp_jawab": "2026-10-05T05:33:36.882Z",
+        "jam_jawab": "12:33:36.882"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 3859,
+        "timestamp_jawab": "2026-10-05T05:33:40.741Z",
+        "jam_jawab": "12:33:40.741"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 4176,
+        "timestamp_jawab": "2026-10-05T05:33:44.917Z",
+        "jam_jawab": "12:33:44.917"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 3293,
+        "timestamp_jawab": "2026-10-05T05:33:48.210Z",
+        "jam_jawab": "12:33:48.210"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 3610,
+        "timestamp_jawab": "2026-10-05T05:33:51.820Z",
+        "jam_jawab": "12:33:51.820"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 3927,
+        "timestamp_jawab": "2026-10-05T05:33:55.747Z",
+        "jam_jawab": "12:33:55.747"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 4244,
+        "timestamp_jawab": "2026-10-05T05:33:59.991Z",
+        "jam_jawab": "12:33:59.991"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 3361,
+        "timestamp_jawab": "2026-10-05T05:34:03.352Z",
+        "jam_jawab": "12:34:03.352"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 3678,
+        "timestamp_jawab": "2026-10-05T05:34:07.030Z",
+        "jam_jawab": "12:34:07.030"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 3995,
+        "timestamp_jawab": "2026-10-05T05:34:11.025Z",
+        "jam_jawab": "12:34:11.025"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (2 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_14_1_7ns",
+    "timestamp": "2026-10-05T04:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "budi",
+    "nama": "Budi Santoso",
+    "paket": "PAKET_60",
+    "skor": 8,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 35885,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 3362,
+        "timestamp_jawab": "2026-10-05T04:33:36.702Z",
+        "jam_jawab": "11:33:36.702"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 3679,
+        "timestamp_jawab": "2026-10-05T04:33:40.381Z",
+        "jam_jawab": "11:33:40.381"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 3996,
+        "timestamp_jawab": "2026-10-05T04:33:44.377Z",
+        "jam_jawab": "11:33:44.377"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 3113,
+        "timestamp_jawab": "2026-10-05T04:33:47.490Z",
+        "jam_jawab": "11:33:47.490"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 3430,
+        "timestamp_jawab": "2026-10-05T04:33:50.920Z",
+        "jam_jawab": "11:33:50.920"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 3747,
+        "timestamp_jawab": "2026-10-05T04:33:54.667Z",
+        "jam_jawab": "11:33:54.667"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 4064,
+        "timestamp_jawab": "2026-10-05T04:33:58.731Z",
+        "jam_jawab": "11:33:58.731"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 3181,
+        "timestamp_jawab": "2026-10-05T04:34:01.912Z",
+        "jam_jawab": "11:34:01.912"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 3498,
+        "timestamp_jawab": "2026-10-05T04:34:05.410Z",
+        "jam_jawab": "11:34:05.410"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 3815,
+        "timestamp_jawab": "2026-10-05T04:34:09.225Z",
+        "jam_jawab": "11:34:09.225"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (2 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_14_2_9s6",
+    "timestamp": "2026-10-05T03:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "citra",
+    "nama": "Citra Lestari",
+    "paket": "PAKET_61",
+    "skor": 8,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 34085,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 3182,
+        "timestamp_jawab": "2026-10-05T03:33:36.522Z",
+        "jam_jawab": "10:33:36.522"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 3499,
+        "timestamp_jawab": "2026-10-05T03:33:40.021Z",
+        "jam_jawab": "10:33:40.021"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 3816,
+        "timestamp_jawab": "2026-10-05T03:33:43.837Z",
+        "jam_jawab": "10:33:43.837"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 2933,
+        "timestamp_jawab": "2026-10-05T03:33:46.770Z",
+        "jam_jawab": "10:33:46.770"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 3250,
+        "timestamp_jawab": "2026-10-05T03:33:50.020Z",
+        "jam_jawab": "10:33:50.020"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 3567,
+        "timestamp_jawab": "2026-10-05T03:33:53.587Z",
+        "jam_jawab": "10:33:53.587"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 3884,
+        "timestamp_jawab": "2026-10-05T03:33:57.471Z",
+        "jam_jawab": "10:33:57.471"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 3001,
+        "timestamp_jawab": "2026-10-05T03:34:00.472Z",
+        "jam_jawab": "10:34:00.472"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 3318,
+        "timestamp_jawab": "2026-10-05T03:34:03.790Z",
+        "jam_jawab": "10:34:03.790"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 3635,
+        "timestamp_jawab": "2026-10-05T03:34:07.425Z",
+        "jam_jawab": "10:34:07.425"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (2 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_14_3_n63",
+    "timestamp": "2026-10-05T02:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "dinda",
+    "nama": "Dinda Kirana",
+    "paket": "PAKET_65",
+    "skor": 8,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 32285,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 3002,
+        "timestamp_jawab": "2026-10-05T02:33:36.342Z",
+        "jam_jawab": "09:33:36.342"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 3319,
+        "timestamp_jawab": "2026-10-05T02:33:39.661Z",
+        "jam_jawab": "09:33:39.661"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 3636,
+        "timestamp_jawab": "2026-10-05T02:33:43.297Z",
+        "jam_jawab": "09:33:43.297"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 2753,
+        "timestamp_jawab": "2026-10-05T02:33:46.050Z",
+        "jam_jawab": "09:33:46.050"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 3070,
+        "timestamp_jawab": "2026-10-05T02:33:49.120Z",
+        "jam_jawab": "09:33:49.120"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 3387,
+        "timestamp_jawab": "2026-10-05T02:33:52.507Z",
+        "jam_jawab": "09:33:52.507"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 3704,
+        "timestamp_jawab": "2026-10-05T02:33:56.211Z",
+        "jam_jawab": "09:33:56.211"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 2821,
+        "timestamp_jawab": "2026-10-05T02:33:59.032Z",
+        "jam_jawab": "09:33:59.032"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 3138,
+        "timestamp_jawab": "2026-10-05T02:34:02.170Z",
+        "jam_jawab": "09:34:02.170"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 3455,
+        "timestamp_jawab": "2026-10-05T02:34:05.625Z",
+        "jam_jawab": "09:34:05.625"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (2 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_12_0_263",
+    "timestamp": "2026-10-07T05:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "andi",
+    "nama": "Andi Pratama",
+    "paket": "PAKET_45",
+    "skor": 8,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 35935,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 3367,
+        "timestamp_jawab": "2026-10-07T05:33:36.707Z",
+        "jam_jawab": "12:33:36.707"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 3684,
+        "timestamp_jawab": "2026-10-07T05:33:40.391Z",
+        "jam_jawab": "12:33:40.391"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 4001,
+        "timestamp_jawab": "2026-10-07T05:33:44.392Z",
+        "jam_jawab": "12:33:44.392"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 3118,
+        "timestamp_jawab": "2026-10-07T05:33:47.510Z",
+        "jam_jawab": "12:33:47.510"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 3435,
+        "timestamp_jawab": "2026-10-07T05:33:50.945Z",
+        "jam_jawab": "12:33:50.945"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 3752,
+        "timestamp_jawab": "2026-10-07T05:33:54.697Z",
+        "jam_jawab": "12:33:54.697"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 4069,
+        "timestamp_jawab": "2026-10-07T05:33:58.766Z",
+        "jam_jawab": "12:33:58.766"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 3186,
+        "timestamp_jawab": "2026-10-07T05:34:01.952Z",
+        "jam_jawab": "12:34:01.952"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 3503,
+        "timestamp_jawab": "2026-10-07T05:34:05.455Z",
+        "jam_jawab": "12:34:05.455"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 3820,
+        "timestamp_jawab": "2026-10-07T05:34:09.275Z",
+        "jam_jawab": "12:34:09.275"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (2 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_12_1_ngi",
+    "timestamp": "2026-10-07T04:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "budi",
+    "nama": "Budi Santoso",
+    "paket": "PAKET_50",
+    "skor": 8,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 34135,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 3187,
+        "timestamp_jawab": "2026-10-07T04:33:36.527Z",
+        "jam_jawab": "11:33:36.527"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 3504,
+        "timestamp_jawab": "2026-10-07T04:33:40.031Z",
+        "jam_jawab": "11:33:40.031"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 3821,
+        "timestamp_jawab": "2026-10-07T04:33:43.852Z",
+        "jam_jawab": "11:33:43.852"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 2938,
+        "timestamp_jawab": "2026-10-07T04:33:46.790Z",
+        "jam_jawab": "11:33:46.790"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 3255,
+        "timestamp_jawab": "2026-10-07T04:33:50.045Z",
+        "jam_jawab": "11:33:50.045"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 3572,
+        "timestamp_jawab": "2026-10-07T04:33:53.617Z",
+        "jam_jawab": "11:33:53.617"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 3889,
+        "timestamp_jawab": "2026-10-07T04:33:57.506Z",
+        "jam_jawab": "11:33:57.506"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 3006,
+        "timestamp_jawab": "2026-10-07T04:34:00.512Z",
+        "jam_jawab": "11:34:00.512"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 3323,
+        "timestamp_jawab": "2026-10-07T04:34:03.835Z",
+        "jam_jawab": "11:34:03.835"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 3640,
+        "timestamp_jawab": "2026-10-07T04:34:07.475Z",
+        "jam_jawab": "11:34:07.475"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (2 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_12_2_dyh",
+    "timestamp": "2026-10-07T03:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "citra",
+    "nama": "Citra Lestari",
+    "paket": "PAKET_55",
+    "skor": 8,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 32335,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 3007,
+        "timestamp_jawab": "2026-10-07T03:33:36.347Z",
+        "jam_jawab": "10:33:36.347"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 3324,
+        "timestamp_jawab": "2026-10-07T03:33:39.671Z",
+        "jam_jawab": "10:33:39.671"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 3641,
+        "timestamp_jawab": "2026-10-07T03:33:43.312Z",
+        "jam_jawab": "10:33:43.312"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 2758,
+        "timestamp_jawab": "2026-10-07T03:33:46.070Z",
+        "jam_jawab": "10:33:46.070"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 3075,
+        "timestamp_jawab": "2026-10-07T03:33:49.145Z",
+        "jam_jawab": "10:33:49.145"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 3392,
+        "timestamp_jawab": "2026-10-07T03:33:52.537Z",
+        "jam_jawab": "10:33:52.537"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 3709,
+        "timestamp_jawab": "2026-10-07T03:33:56.246Z",
+        "jam_jawab": "10:33:56.246"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 2826,
+        "timestamp_jawab": "2026-10-07T03:33:59.072Z",
+        "jam_jawab": "10:33:59.072"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 3143,
+        "timestamp_jawab": "2026-10-07T03:34:02.215Z",
+        "jam_jawab": "10:34:02.215"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 3460,
+        "timestamp_jawab": "2026-10-07T03:34:05.675Z",
+        "jam_jawab": "10:34:05.675"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (2 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_12_3_o5m",
+    "timestamp": "2026-10-07T02:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "dinda",
+    "nama": "Dinda Kirana",
+    "paket": "PAKET_60",
+    "skor": 8,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 30535,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 2827,
+        "timestamp_jawab": "2026-10-07T02:33:36.167Z",
+        "jam_jawab": "09:33:36.167"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 3144,
+        "timestamp_jawab": "2026-10-07T02:33:39.311Z",
+        "jam_jawab": "09:33:39.311"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 3461,
+        "timestamp_jawab": "2026-10-07T02:33:42.772Z",
+        "jam_jawab": "09:33:42.772"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 2578,
+        "timestamp_jawab": "2026-10-07T02:33:45.350Z",
+        "jam_jawab": "09:33:45.350"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 2895,
+        "timestamp_jawab": "2026-10-07T02:33:48.245Z",
+        "jam_jawab": "09:33:48.245"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 3212,
+        "timestamp_jawab": "2026-10-07T02:33:51.457Z",
+        "jam_jawab": "09:33:51.457"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 3529,
+        "timestamp_jawab": "2026-10-07T02:33:54.986Z",
+        "jam_jawab": "09:33:54.986"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 2646,
+        "timestamp_jawab": "2026-10-07T02:33:57.632Z",
+        "jam_jawab": "09:33:57.632"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 2963,
+        "timestamp_jawab": "2026-10-07T02:34:00.595Z",
+        "jam_jawab": "09:34:00.595"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 3280,
+        "timestamp_jawab": "2026-10-07T02:34:03.875Z",
+        "jam_jawab": "09:34:03.875"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (2 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_10_0_7sp",
+    "timestamp": "2026-10-09T05:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "andi",
+    "nama": "Andi Pratama",
+    "paket": "PAKET_40",
+    "skor": 8,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 34185,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 3192,
+        "timestamp_jawab": "2026-10-09T05:33:36.532Z",
+        "jam_jawab": "12:33:36.532"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 3509,
+        "timestamp_jawab": "2026-10-09T05:33:40.041Z",
+        "jam_jawab": "12:33:40.041"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 3826,
+        "timestamp_jawab": "2026-10-09T05:33:43.867Z",
+        "jam_jawab": "12:33:43.867"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 2943,
+        "timestamp_jawab": "2026-10-09T05:33:46.810Z",
+        "jam_jawab": "12:33:46.810"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 3260,
+        "timestamp_jawab": "2026-10-09T05:33:50.070Z",
+        "jam_jawab": "12:33:50.070"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 3577,
+        "timestamp_jawab": "2026-10-09T05:33:53.647Z",
+        "jam_jawab": "12:33:53.647"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 3894,
+        "timestamp_jawab": "2026-10-09T05:33:57.541Z",
+        "jam_jawab": "12:33:57.541"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 3011,
+        "timestamp_jawab": "2026-10-09T05:34:00.552Z",
+        "jam_jawab": "12:34:00.552"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 3328,
+        "timestamp_jawab": "2026-10-09T05:34:03.880Z",
+        "jam_jawab": "12:34:03.880"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 3645,
+        "timestamp_jawab": "2026-10-09T05:34:07.525Z",
+        "jam_jawab": "12:34:07.525"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (2 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_10_1_vgy",
+    "timestamp": "2026-10-09T04:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "budi",
+    "nama": "Budi Santoso",
+    "paket": "PAKET_41",
+    "skor": 9,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 32385,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 3012,
+        "timestamp_jawab": "2026-10-09T04:33:36.352Z",
+        "jam_jawab": "11:33:36.352"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 3329,
+        "timestamp_jawab": "2026-10-09T04:33:39.681Z",
+        "jam_jawab": "11:33:39.681"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 3646,
+        "timestamp_jawab": "2026-10-09T04:33:43.327Z",
+        "jam_jawab": "11:33:43.327"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 2763,
+        "timestamp_jawab": "2026-10-09T04:33:46.090Z",
+        "jam_jawab": "11:33:46.090"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 3080,
+        "timestamp_jawab": "2026-10-09T04:33:49.170Z",
+        "jam_jawab": "11:33:49.170"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 3397,
+        "timestamp_jawab": "2026-10-09T04:33:52.567Z",
+        "jam_jawab": "11:33:52.567"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 3714,
+        "timestamp_jawab": "2026-10-09T04:33:56.281Z",
+        "jam_jawab": "11:33:56.281"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 2831,
+        "timestamp_jawab": "2026-10-09T04:33:59.112Z",
+        "jam_jawab": "11:33:59.112"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": true,
+        "waktu_ms": 3148,
+        "timestamp_jawab": "2026-10-09T04:34:02.260Z",
+        "jam_jawab": "11:34:02.260"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 3465,
+        "timestamp_jawab": "2026-10-09T04:34:05.725Z",
+        "jam_jawab": "11:34:05.725"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (1 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_10_2_h3r",
+    "timestamp": "2026-10-09T03:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "citra",
+    "nama": "Citra Lestari",
+    "paket": "PAKET_45",
+    "skor": 8,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 30585,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 2832,
+        "timestamp_jawab": "2026-10-09T03:33:36.172Z",
+        "jam_jawab": "10:33:36.172"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 3149,
+        "timestamp_jawab": "2026-10-09T03:33:39.321Z",
+        "jam_jawab": "10:33:39.321"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 3466,
+        "timestamp_jawab": "2026-10-09T03:33:42.787Z",
+        "jam_jawab": "10:33:42.787"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 2583,
+        "timestamp_jawab": "2026-10-09T03:33:45.370Z",
+        "jam_jawab": "10:33:45.370"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 2900,
+        "timestamp_jawab": "2026-10-09T03:33:48.270Z",
+        "jam_jawab": "10:33:48.270"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 3217,
+        "timestamp_jawab": "2026-10-09T03:33:51.487Z",
+        "jam_jawab": "10:33:51.487"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 3534,
+        "timestamp_jawab": "2026-10-09T03:33:55.021Z",
+        "jam_jawab": "10:33:55.021"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 2651,
+        "timestamp_jawab": "2026-10-09T03:33:57.672Z",
+        "jam_jawab": "10:33:57.672"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 2968,
+        "timestamp_jawab": "2026-10-09T03:34:00.640Z",
+        "jam_jawab": "10:34:00.640"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 3285,
+        "timestamp_jawab": "2026-10-09T03:34:03.925Z",
+        "jam_jawab": "10:34:03.925"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (2 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_10_3_dy6",
+    "timestamp": "2026-10-09T02:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "dinda",
+    "nama": "Dinda Kirana",
+    "paket": "PAKET_50",
+    "skor": 9,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 28785,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 2652,
+        "timestamp_jawab": "2026-10-09T02:33:35.992Z",
+        "jam_jawab": "09:33:35.992"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 2969,
+        "timestamp_jawab": "2026-10-09T02:33:38.961Z",
+        "jam_jawab": "09:33:38.961"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 3286,
+        "timestamp_jawab": "2026-10-09T02:33:42.247Z",
+        "jam_jawab": "09:33:42.247"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 2403,
+        "timestamp_jawab": "2026-10-09T02:33:44.650Z",
+        "jam_jawab": "09:33:44.650"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 2720,
+        "timestamp_jawab": "2026-10-09T02:33:47.370Z",
+        "jam_jawab": "09:33:47.370"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 3037,
+        "timestamp_jawab": "2026-10-09T02:33:50.407Z",
+        "jam_jawab": "09:33:50.407"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 3354,
+        "timestamp_jawab": "2026-10-09T02:33:53.761Z",
+        "jam_jawab": "09:33:53.761"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 2471,
+        "timestamp_jawab": "2026-10-09T02:33:56.232Z",
+        "jam_jawab": "09:33:56.232"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": true,
+        "waktu_ms": 2788,
+        "timestamp_jawab": "2026-10-09T02:33:59.020Z",
+        "jam_jawab": "09:33:59.020"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 3105,
+        "timestamp_jawab": "2026-10-09T02:34:02.125Z",
+        "jam_jawab": "09:34:02.125"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (1 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_8_0_kld",
+    "timestamp": "2026-10-11T05:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "andi",
+    "nama": "Andi Pratama",
+    "paket": "PAKET_30",
+    "skor": 8,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 32435,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 3017,
+        "timestamp_jawab": "2026-10-11T05:33:36.357Z",
+        "jam_jawab": "12:33:36.357"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 3334,
+        "timestamp_jawab": "2026-10-11T05:33:39.691Z",
+        "jam_jawab": "12:33:39.691"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 3651,
+        "timestamp_jawab": "2026-10-11T05:33:43.342Z",
+        "jam_jawab": "12:33:43.342"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 2768,
+        "timestamp_jawab": "2026-10-11T05:33:46.110Z",
+        "jam_jawab": "12:33:46.110"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 3085,
+        "timestamp_jawab": "2026-10-11T05:33:49.195Z",
+        "jam_jawab": "12:33:49.195"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 3402,
+        "timestamp_jawab": "2026-10-11T05:33:52.597Z",
+        "jam_jawab": "12:33:52.597"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 3719,
+        "timestamp_jawab": "2026-10-11T05:33:56.316Z",
+        "jam_jawab": "12:33:56.316"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 2836,
+        "timestamp_jawab": "2026-10-11T05:33:59.152Z",
+        "jam_jawab": "12:33:59.152"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 3153,
+        "timestamp_jawab": "2026-10-11T05:34:02.305Z",
+        "jam_jawab": "12:34:02.305"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 3470,
+        "timestamp_jawab": "2026-10-11T05:34:05.775Z",
+        "jam_jawab": "12:34:05.775"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (2 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_8_1_h61",
+    "timestamp": "2026-10-11T04:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "budi",
+    "nama": "Budi Santoso",
+    "paket": "PAKET_35",
+    "skor": 9,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 30635,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 2837,
+        "timestamp_jawab": "2026-10-11T04:33:36.177Z",
+        "jam_jawab": "11:33:36.177"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 3154,
+        "timestamp_jawab": "2026-10-11T04:33:39.331Z",
+        "jam_jawab": "11:33:39.331"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 3471,
+        "timestamp_jawab": "2026-10-11T04:33:42.802Z",
+        "jam_jawab": "11:33:42.802"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 2588,
+        "timestamp_jawab": "2026-10-11T04:33:45.390Z",
+        "jam_jawab": "11:33:45.390"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 2905,
+        "timestamp_jawab": "2026-10-11T04:33:48.295Z",
+        "jam_jawab": "11:33:48.295"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 3222,
+        "timestamp_jawab": "2026-10-11T04:33:51.517Z",
+        "jam_jawab": "11:33:51.517"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 3539,
+        "timestamp_jawab": "2026-10-11T04:33:55.056Z",
+        "jam_jawab": "11:33:55.056"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 2656,
+        "timestamp_jawab": "2026-10-11T04:33:57.712Z",
+        "jam_jawab": "11:33:57.712"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": true,
+        "waktu_ms": 2973,
+        "timestamp_jawab": "2026-10-11T04:34:00.685Z",
+        "jam_jawab": "11:34:00.685"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 3290,
+        "timestamp_jawab": "2026-10-11T04:34:03.975Z",
+        "jam_jawab": "11:34:03.975"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (1 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_8_2_zh2",
+    "timestamp": "2026-10-11T03:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "citra",
+    "nama": "Citra Lestari",
+    "paket": "PAKET_40",
+    "skor": 8,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 28835,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 2657,
+        "timestamp_jawab": "2026-10-11T03:33:35.997Z",
+        "jam_jawab": "10:33:35.997"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 2974,
+        "timestamp_jawab": "2026-10-11T03:33:38.971Z",
+        "jam_jawab": "10:33:38.971"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 3291,
+        "timestamp_jawab": "2026-10-11T03:33:42.262Z",
+        "jam_jawab": "10:33:42.262"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 2408,
+        "timestamp_jawab": "2026-10-11T03:33:44.670Z",
+        "jam_jawab": "10:33:44.670"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 2725,
+        "timestamp_jawab": "2026-10-11T03:33:47.395Z",
+        "jam_jawab": "10:33:47.395"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 3042,
+        "timestamp_jawab": "2026-10-11T03:33:50.437Z",
+        "jam_jawab": "10:33:50.437"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 3359,
+        "timestamp_jawab": "2026-10-11T03:33:53.796Z",
+        "jam_jawab": "10:33:53.796"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 2476,
+        "timestamp_jawab": "2026-10-11T03:33:56.272Z",
+        "jam_jawab": "10:33:56.272"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": false,
+        "waktu_ms": 2793,
+        "timestamp_jawab": "2026-10-11T03:33:59.065Z",
+        "jam_jawab": "10:33:59.065"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 3110,
+        "timestamp_jawab": "2026-10-11T03:34:02.175Z",
+        "jam_jawab": "10:34:02.175"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (2 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_8_3_3r6",
+    "timestamp": "2026-10-11T02:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "dinda",
+    "nama": "Dinda Kirana",
+    "paket": "PAKET_41",
+    "skor": 9,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 27035,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 2477,
+        "timestamp_jawab": "2026-10-11T02:33:35.817Z",
+        "jam_jawab": "09:33:35.817"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 2794,
+        "timestamp_jawab": "2026-10-11T02:33:38.611Z",
+        "jam_jawab": "09:33:38.611"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 3111,
+        "timestamp_jawab": "2026-10-11T02:33:41.722Z",
+        "jam_jawab": "09:33:41.722"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 2228,
+        "timestamp_jawab": "2026-10-11T02:33:43.950Z",
+        "jam_jawab": "09:33:43.950"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 2545,
+        "timestamp_jawab": "2026-10-11T02:33:46.495Z",
+        "jam_jawab": "09:33:46.495"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 2862,
+        "timestamp_jawab": "2026-10-11T02:33:49.357Z",
+        "jam_jawab": "09:33:49.357"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 3179,
+        "timestamp_jawab": "2026-10-11T02:33:52.536Z",
+        "jam_jawab": "09:33:52.536"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 2296,
+        "timestamp_jawab": "2026-10-11T02:33:54.832Z",
+        "jam_jawab": "09:33:54.832"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": true,
+        "waktu_ms": 2613,
+        "timestamp_jawab": "2026-10-11T02:33:57.445Z",
+        "jam_jawab": "09:33:57.445"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 2930,
+        "timestamp_jawab": "2026-10-11T02:34:00.375Z",
+        "jam_jawab": "09:34:00.375"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (1 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_6_0_wka",
+    "timestamp": "2026-10-13T05:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "andi",
+    "nama": "Andi Pratama",
+    "paket": "PAKET_21",
+    "skor": 9,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 30685,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 2842,
+        "timestamp_jawab": "2026-10-13T05:33:36.182Z",
+        "jam_jawab": "12:33:36.182"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 3159,
+        "timestamp_jawab": "2026-10-13T05:33:39.341Z",
+        "jam_jawab": "12:33:39.341"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 3476,
+        "timestamp_jawab": "2026-10-13T05:33:42.817Z",
+        "jam_jawab": "12:33:42.817"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 2593,
+        "timestamp_jawab": "2026-10-13T05:33:45.410Z",
+        "jam_jawab": "12:33:45.410"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 2910,
+        "timestamp_jawab": "2026-10-13T05:33:48.320Z",
+        "jam_jawab": "12:33:48.320"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 3227,
+        "timestamp_jawab": "2026-10-13T05:33:51.547Z",
+        "jam_jawab": "12:33:51.547"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 3544,
+        "timestamp_jawab": "2026-10-13T05:33:55.091Z",
+        "jam_jawab": "12:33:55.091"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 2661,
+        "timestamp_jawab": "2026-10-13T05:33:57.752Z",
+        "jam_jawab": "12:33:57.752"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": true,
+        "waktu_ms": 2978,
+        "timestamp_jawab": "2026-10-13T05:34:00.730Z",
+        "jam_jawab": "12:34:00.730"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 3295,
+        "timestamp_jawab": "2026-10-13T05:34:04.025Z",
+        "jam_jawab": "12:34:04.025"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (1 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_6_1_90b",
+    "timestamp": "2026-10-13T04:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "budi",
+    "nama": "Budi Santoso",
+    "paket": "PAKET_25",
+    "skor": 9,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 28885,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 2662,
+        "timestamp_jawab": "2026-10-13T04:33:36.002Z",
+        "jam_jawab": "11:33:36.002"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 2979,
+        "timestamp_jawab": "2026-10-13T04:33:38.981Z",
+        "jam_jawab": "11:33:38.981"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 3296,
+        "timestamp_jawab": "2026-10-13T04:33:42.277Z",
+        "jam_jawab": "11:33:42.277"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 2413,
+        "timestamp_jawab": "2026-10-13T04:33:44.690Z",
+        "jam_jawab": "11:33:44.690"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 2730,
+        "timestamp_jawab": "2026-10-13T04:33:47.420Z",
+        "jam_jawab": "11:33:47.420"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 3047,
+        "timestamp_jawab": "2026-10-13T04:33:50.467Z",
+        "jam_jawab": "11:33:50.467"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 3364,
+        "timestamp_jawab": "2026-10-13T04:33:53.831Z",
+        "jam_jawab": "11:33:53.831"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 2481,
+        "timestamp_jawab": "2026-10-13T04:33:56.312Z",
+        "jam_jawab": "11:33:56.312"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": true,
+        "waktu_ms": 2798,
+        "timestamp_jawab": "2026-10-13T04:33:59.110Z",
+        "jam_jawab": "11:33:59.110"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 3115,
+        "timestamp_jawab": "2026-10-13T04:34:02.225Z",
+        "jam_jawab": "11:34:02.225"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (1 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_6_2_c9o",
+    "timestamp": "2026-10-13T03:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "citra",
+    "nama": "Citra Lestari",
+    "paket": "PAKET_30",
+    "skor": 9,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 27085,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 2482,
+        "timestamp_jawab": "2026-10-13T03:33:35.822Z",
+        "jam_jawab": "10:33:35.822"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 2799,
+        "timestamp_jawab": "2026-10-13T03:33:38.621Z",
+        "jam_jawab": "10:33:38.621"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 3116,
+        "timestamp_jawab": "2026-10-13T03:33:41.737Z",
+        "jam_jawab": "10:33:41.737"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 2233,
+        "timestamp_jawab": "2026-10-13T03:33:43.970Z",
+        "jam_jawab": "10:33:43.970"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 2550,
+        "timestamp_jawab": "2026-10-13T03:33:46.520Z",
+        "jam_jawab": "10:33:46.520"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 2867,
+        "timestamp_jawab": "2026-10-13T03:33:49.387Z",
+        "jam_jawab": "10:33:49.387"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 3184,
+        "timestamp_jawab": "2026-10-13T03:33:52.571Z",
+        "jam_jawab": "10:33:52.571"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 2301,
+        "timestamp_jawab": "2026-10-13T03:33:54.872Z",
+        "jam_jawab": "10:33:54.872"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": true,
+        "waktu_ms": 2618,
+        "timestamp_jawab": "2026-10-13T03:33:57.490Z",
+        "jam_jawab": "10:33:57.490"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 2935,
+        "timestamp_jawab": "2026-10-13T03:34:00.425Z",
+        "jam_jawab": "10:34:00.425"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (1 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_6_3_b6e",
+    "timestamp": "2026-10-13T02:33:33.340Z",
+    "mode": "latihan",
+    "room_code": "KELAS-7A",
+    "username": "dinda",
+    "nama": "Dinda Kirana",
+    "paket": "PAKET_35",
+    "skor": 9,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 25285,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 2302,
+        "timestamp_jawab": "2026-10-13T02:33:35.642Z",
+        "jam_jawab": "09:33:35.642"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 2619,
+        "timestamp_jawab": "2026-10-13T02:33:38.261Z",
+        "jam_jawab": "09:33:38.261"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 2936,
+        "timestamp_jawab": "2026-10-13T02:33:41.197Z",
+        "jam_jawab": "09:33:41.197"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 2053,
+        "timestamp_jawab": "2026-10-13T02:33:43.250Z",
+        "jam_jawab": "09:33:43.250"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 2370,
+        "timestamp_jawab": "2026-10-13T02:33:45.620Z",
+        "jam_jawab": "09:33:45.620"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 2687,
+        "timestamp_jawab": "2026-10-13T02:33:48.307Z",
+        "jam_jawab": "09:33:48.307"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 3004,
+        "timestamp_jawab": "2026-10-13T02:33:51.311Z",
+        "jam_jawab": "09:33:51.311"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 2121,
+        "timestamp_jawab": "2026-10-13T02:33:53.432Z",
+        "jam_jawab": "09:33:53.432"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": true,
+        "waktu_ms": 2438,
+        "timestamp_jawab": "2026-10-13T02:33:55.870Z",
+        "jam_jawab": "09:33:55.870"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 2755,
+        "timestamp_jawab": "2026-10-13T02:33:58.625Z",
+        "jam_jawab": "09:33:58.625"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (1 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_4_0_m12",
+    "timestamp": "2026-10-15T05:33:33.340Z",
+    "mode": "battle",
+    "room_code": "KELAS-7A",
+    "username": "andi",
+    "nama": "Andi Pratama",
+    "paket": "PAKET_15",
+    "skor": 9,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 28935,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 2667,
+        "timestamp_jawab": "2026-10-15T05:33:36.007Z",
+        "jam_jawab": "12:33:36.007"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 2984,
+        "timestamp_jawab": "2026-10-15T05:33:38.991Z",
+        "jam_jawab": "12:33:38.991"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 3301,
+        "timestamp_jawab": "2026-10-15T05:33:42.292Z",
+        "jam_jawab": "12:33:42.292"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 2418,
+        "timestamp_jawab": "2026-10-15T05:33:44.710Z",
+        "jam_jawab": "12:33:44.710"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 2735,
+        "timestamp_jawab": "2026-10-15T05:33:47.445Z",
+        "jam_jawab": "12:33:47.445"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 3052,
+        "timestamp_jawab": "2026-10-15T05:33:50.497Z",
+        "jam_jawab": "12:33:50.497"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 3369,
+        "timestamp_jawab": "2026-10-15T05:33:53.866Z",
+        "jam_jawab": "12:33:53.866"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 2486,
+        "timestamp_jawab": "2026-10-15T05:33:56.352Z",
+        "jam_jawab": "12:33:56.352"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": true,
+        "waktu_ms": 2803,
+        "timestamp_jawab": "2026-10-15T05:33:59.155Z",
+        "jam_jawab": "12:33:59.155"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 3120,
+        "timestamp_jawab": "2026-10-15T05:34:02.275Z",
+        "jam_jawab": "12:34:02.275"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (1 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_4_1_l9v",
+    "timestamp": "2026-10-15T04:33:33.340Z",
+    "mode": "battle",
+    "room_code": "KELAS-7A",
+    "username": "budi",
+    "nama": "Budi Santoso",
+    "paket": "PAKET_20",
+    "skor": 9,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 27135,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 2487,
+        "timestamp_jawab": "2026-10-15T04:33:35.827Z",
+        "jam_jawab": "11:33:35.827"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 2804,
+        "timestamp_jawab": "2026-10-15T04:33:38.631Z",
+        "jam_jawab": "11:33:38.631"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 3121,
+        "timestamp_jawab": "2026-10-15T04:33:41.752Z",
+        "jam_jawab": "11:33:41.752"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 2238,
+        "timestamp_jawab": "2026-10-15T04:33:43.990Z",
+        "jam_jawab": "11:33:43.990"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 2555,
+        "timestamp_jawab": "2026-10-15T04:33:46.545Z",
+        "jam_jawab": "11:33:46.545"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 2872,
+        "timestamp_jawab": "2026-10-15T04:33:49.417Z",
+        "jam_jawab": "11:33:49.417"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 3189,
+        "timestamp_jawab": "2026-10-15T04:33:52.606Z",
+        "jam_jawab": "11:33:52.606"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 2306,
+        "timestamp_jawab": "2026-10-15T04:33:54.912Z",
+        "jam_jawab": "11:33:54.912"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": true,
+        "waktu_ms": 2623,
+        "timestamp_jawab": "2026-10-15T04:33:57.535Z",
+        "jam_jawab": "11:33:57.535"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 2940,
+        "timestamp_jawab": "2026-10-15T04:34:00.475Z",
+        "jam_jawab": "11:34:00.475"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (1 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_4_2_5o7",
+    "timestamp": "2026-10-15T03:33:33.340Z",
+    "mode": "battle",
+    "room_code": "KELAS-7A",
+    "username": "citra",
+    "nama": "Citra Lestari",
+    "paket": "PAKET_21",
+    "skor": 9,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 25335,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 2307,
+        "timestamp_jawab": "2026-10-15T03:33:35.647Z",
+        "jam_jawab": "10:33:35.647"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 2624,
+        "timestamp_jawab": "2026-10-15T03:33:38.271Z",
+        "jam_jawab": "10:33:38.271"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 2941,
+        "timestamp_jawab": "2026-10-15T03:33:41.212Z",
+        "jam_jawab": "10:33:41.212"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 2058,
+        "timestamp_jawab": "2026-10-15T03:33:43.270Z",
+        "jam_jawab": "10:33:43.270"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 2375,
+        "timestamp_jawab": "2026-10-15T03:33:45.645Z",
+        "jam_jawab": "10:33:45.645"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 2692,
+        "timestamp_jawab": "2026-10-15T03:33:48.337Z",
+        "jam_jawab": "10:33:48.337"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 3009,
+        "timestamp_jawab": "2026-10-15T03:33:51.346Z",
+        "jam_jawab": "10:33:51.346"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 2126,
+        "timestamp_jawab": "2026-10-15T03:33:53.472Z",
+        "jam_jawab": "10:33:53.472"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": true,
+        "waktu_ms": 2443,
+        "timestamp_jawab": "2026-10-15T03:33:55.915Z",
+        "jam_jawab": "10:33:55.915"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 2760,
+        "timestamp_jawab": "2026-10-15T03:33:58.675Z",
+        "jam_jawab": "10:33:58.675"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (1 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_4_3_t73",
+    "timestamp": "2026-10-15T02:33:33.340Z",
+    "mode": "battle",
+    "room_code": "KELAS-7A",
+    "username": "dinda",
+    "nama": "Dinda Kirana",
+    "paket": "PAKET_25",
+    "skor": 9,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 23535,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 2127,
+        "timestamp_jawab": "2026-10-15T02:33:35.467Z",
+        "jam_jawab": "09:33:35.467"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 2444,
+        "timestamp_jawab": "2026-10-15T02:33:37.911Z",
+        "jam_jawab": "09:33:37.911"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 2761,
+        "timestamp_jawab": "2026-10-15T02:33:40.672Z",
+        "jam_jawab": "09:33:40.672"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 1878,
+        "timestamp_jawab": "2026-10-15T02:33:42.550Z",
+        "jam_jawab": "09:33:42.550"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 2195,
+        "timestamp_jawab": "2026-10-15T02:33:44.745Z",
+        "jam_jawab": "09:33:44.745"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 2512,
+        "timestamp_jawab": "2026-10-15T02:33:47.257Z",
+        "jam_jawab": "09:33:47.257"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 2829,
+        "timestamp_jawab": "2026-10-15T02:33:50.086Z",
+        "jam_jawab": "09:33:50.086"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 1946,
+        "timestamp_jawab": "2026-10-15T02:33:52.032Z",
+        "jam_jawab": "09:33:52.032"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": true,
+        "waktu_ms": 2263,
+        "timestamp_jawab": "2026-10-15T02:33:54.295Z",
+        "jam_jawab": "09:33:54.295"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 2580,
+        "timestamp_jawab": "2026-10-15T02:33:56.875Z",
+        "jam_jawab": "09:33:56.875"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (1 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_2_0_cjv",
+    "timestamp": "2026-10-17T05:33:33.340Z",
+    "mode": "battle",
+    "room_code": "KELAS-7A",
+    "username": "andi",
+    "nama": "Andi Pratama",
+    "paket": "PAKET_5",
+    "skor": 9,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 27185,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 2492,
+        "timestamp_jawab": "2026-10-17T05:33:35.832Z",
+        "jam_jawab": "12:33:35.832"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 2809,
+        "timestamp_jawab": "2026-10-17T05:33:38.641Z",
+        "jam_jawab": "12:33:38.641"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 3126,
+        "timestamp_jawab": "2026-10-17T05:33:41.767Z",
+        "jam_jawab": "12:33:41.767"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 2243,
+        "timestamp_jawab": "2026-10-17T05:33:44.010Z",
+        "jam_jawab": "12:33:44.010"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 2560,
+        "timestamp_jawab": "2026-10-17T05:33:46.570Z",
+        "jam_jawab": "12:33:46.570"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 2877,
+        "timestamp_jawab": "2026-10-17T05:33:49.447Z",
+        "jam_jawab": "12:33:49.447"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 3194,
+        "timestamp_jawab": "2026-10-17T05:33:52.641Z",
+        "jam_jawab": "12:33:52.641"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 2311,
+        "timestamp_jawab": "2026-10-17T05:33:54.952Z",
+        "jam_jawab": "12:33:54.952"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": true,
+        "waktu_ms": 2628,
+        "timestamp_jawab": "2026-10-17T05:33:57.580Z",
+        "jam_jawab": "12:33:57.580"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 2945,
+        "timestamp_jawab": "2026-10-17T05:34:00.525Z",
+        "jam_jawab": "12:34:00.525"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (1 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_2_1_00t",
+    "timestamp": "2026-10-17T04:33:33.340Z",
+    "mode": "battle",
+    "room_code": "KELAS-7A",
+    "username": "budi",
+    "nama": "Budi Santoso",
+    "paket": "PAKET_10",
+    "skor": 10,
+    "sisa_nyawa": 3,
+    "total_waktu_ms": 25385,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 2312,
+        "timestamp_jawab": "2026-10-17T04:33:35.652Z",
+        "jam_jawab": "11:33:35.652"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 2629,
+        "timestamp_jawab": "2026-10-17T04:33:38.281Z",
+        "jam_jawab": "11:33:38.281"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 2946,
+        "timestamp_jawab": "2026-10-17T04:33:41.227Z",
+        "jam_jawab": "11:33:41.227"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 2063,
+        "timestamp_jawab": "2026-10-17T04:33:43.290Z",
+        "jam_jawab": "11:33:43.290"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 2380,
+        "timestamp_jawab": "2026-10-17T04:33:45.670Z",
+        "jam_jawab": "11:33:45.670"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 2697,
+        "timestamp_jawab": "2026-10-17T04:33:48.367Z",
+        "jam_jawab": "11:33:48.367"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 3014,
+        "timestamp_jawab": "2026-10-17T04:33:51.381Z",
+        "jam_jawab": "11:33:51.381"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 2131,
+        "timestamp_jawab": "2026-10-17T04:33:53.512Z",
+        "jam_jawab": "11:33:53.512"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": true,
+        "waktu_ms": 2448,
+        "timestamp_jawab": "2026-10-17T04:33:55.960Z",
+        "jam_jawab": "11:33:55.960"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": true,
+        "waktu_ms": 2765,
+        "timestamp_jawab": "2026-10-17T04:33:58.725Z",
+        "jam_jawab": "11:33:58.725"
+      }
+    ],
+    "log_kesalahan": []
+  },
+  {
+    "id": "demo_2_2_8a6",
+    "timestamp": "2026-10-17T03:33:33.340Z",
+    "mode": "battle",
+    "room_code": "KELAS-7A",
+    "username": "citra",
+    "nama": "Citra Lestari",
+    "paket": "PAKET_15",
+    "skor": 9,
+    "sisa_nyawa": 2,
+    "total_waktu_ms": 23585,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 2132,
+        "timestamp_jawab": "2026-10-17T03:33:35.472Z",
+        "jam_jawab": "10:33:35.472"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 2449,
+        "timestamp_jawab": "2026-10-17T03:33:37.921Z",
+        "jam_jawab": "10:33:37.921"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 2766,
+        "timestamp_jawab": "2026-10-17T03:33:40.687Z",
+        "jam_jawab": "10:33:40.687"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 1883,
+        "timestamp_jawab": "2026-10-17T03:33:42.570Z",
+        "jam_jawab": "10:33:42.570"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 2200,
+        "timestamp_jawab": "2026-10-17T03:33:44.770Z",
+        "jam_jawab": "10:33:44.770"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 2517,
+        "timestamp_jawab": "2026-10-17T03:33:47.287Z",
+        "jam_jawab": "10:33:47.287"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 2834,
+        "timestamp_jawab": "2026-10-17T03:33:50.121Z",
+        "jam_jawab": "10:33:50.121"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 1951,
+        "timestamp_jawab": "2026-10-17T03:33:52.072Z",
+        "jam_jawab": "10:33:52.072"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": true,
+        "waktu_ms": 2268,
+        "timestamp_jawab": "2026-10-17T03:33:54.340Z",
+        "jam_jawab": "10:33:54.340"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": false,
+        "waktu_ms": 2585,
+        "timestamp_jawab": "2026-10-17T03:33:56.925Z",
+        "jam_jawab": "10:33:56.925"
+      }
+    ],
+    "log_kesalahan": [
+      "Soal Latihan (1 kesalahan)"
+    ]
+  },
+  {
+    "id": "demo_2_3_6zw",
+    "timestamp": "2026-10-17T02:33:33.340Z",
+    "mode": "battle",
+    "room_code": "KELAS-7A",
+    "username": "dinda",
+    "nama": "Dinda Kirana",
+    "paket": "PAKET_20",
+    "skor": 10,
+    "sisa_nyawa": 3,
+    "total_waktu_ms": 21785,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 1952,
+        "timestamp_jawab": "2026-10-17T02:33:35.292Z",
+        "jam_jawab": "09:33:35.292"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 2269,
+        "timestamp_jawab": "2026-10-17T02:33:37.561Z",
+        "jam_jawab": "09:33:37.561"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 2586,
+        "timestamp_jawab": "2026-10-17T02:33:40.147Z",
+        "jam_jawab": "09:33:40.147"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 1703,
+        "timestamp_jawab": "2026-10-17T02:33:41.850Z",
+        "jam_jawab": "09:33:41.850"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 2020,
+        "timestamp_jawab": "2026-10-17T02:33:43.870Z",
+        "jam_jawab": "09:33:43.870"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 2337,
+        "timestamp_jawab": "2026-10-17T02:33:46.207Z",
+        "jam_jawab": "09:33:46.207"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 2654,
+        "timestamp_jawab": "2026-10-17T02:33:48.861Z",
+        "jam_jawab": "09:33:48.861"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 1771,
+        "timestamp_jawab": "2026-10-17T02:33:50.632Z",
+        "jam_jawab": "09:33:50.632"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": true,
+        "waktu_ms": 2088,
+        "timestamp_jawab": "2026-10-17T02:33:52.720Z",
+        "jam_jawab": "09:33:52.720"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": true,
+        "waktu_ms": 2405,
+        "timestamp_jawab": "2026-10-17T02:33:55.125Z",
+        "jam_jawab": "09:33:55.125"
+      }
+    ],
+    "log_kesalahan": []
+  },
+  {
+    "id": "demo_0_0_mtt",
+    "timestamp": "2026-10-19T05:33:33.340Z",
+    "mode": "battle",
+    "room_code": "KELAS-7A",
+    "username": "andi",
+    "nama": "Andi Pratama",
+    "paket": "PAKET_1",
+    "skor": 10,
+    "sisa_nyawa": 3,
+    "total_waktu_ms": 25435,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 2317,
+        "timestamp_jawab": "2026-10-19T05:33:35.657Z",
+        "jam_jawab": "12:33:35.657"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 2634,
+        "timestamp_jawab": "2026-10-19T05:33:38.291Z",
+        "jam_jawab": "12:33:38.291"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 2951,
+        "timestamp_jawab": "2026-10-19T05:33:41.242Z",
+        "jam_jawab": "12:33:41.242"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 2068,
+        "timestamp_jawab": "2026-10-19T05:33:43.310Z",
+        "jam_jawab": "12:33:43.310"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 2385,
+        "timestamp_jawab": "2026-10-19T05:33:45.695Z",
+        "jam_jawab": "12:33:45.695"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 2702,
+        "timestamp_jawab": "2026-10-19T05:33:48.397Z",
+        "jam_jawab": "12:33:48.397"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 3019,
+        "timestamp_jawab": "2026-10-19T05:33:51.416Z",
+        "jam_jawab": "12:33:51.416"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 2136,
+        "timestamp_jawab": "2026-10-19T05:33:53.552Z",
+        "jam_jawab": "12:33:53.552"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": true,
+        "waktu_ms": 2453,
+        "timestamp_jawab": "2026-10-19T05:33:56.005Z",
+        "jam_jawab": "12:33:56.005"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": true,
+        "waktu_ms": 2770,
+        "timestamp_jawab": "2026-10-19T05:33:58.775Z",
+        "jam_jawab": "12:33:58.775"
+      }
+    ],
+    "log_kesalahan": []
+  },
+  {
+    "id": "demo_0_1_4mw",
+    "timestamp": "2026-10-19T04:33:33.340Z",
+    "mode": "battle",
+    "room_code": "KELAS-7A",
+    "username": "budi",
+    "nama": "Budi Santoso",
+    "paket": "PAKET_2",
+    "skor": 10,
+    "sisa_nyawa": 3,
+    "total_waktu_ms": 23635,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 2137,
+        "timestamp_jawab": "2026-10-19T04:33:35.477Z",
+        "jam_jawab": "11:33:35.477"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 2454,
+        "timestamp_jawab": "2026-10-19T04:33:37.931Z",
+        "jam_jawab": "11:33:37.931"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 2771,
+        "timestamp_jawab": "2026-10-19T04:33:40.702Z",
+        "jam_jawab": "11:33:40.702"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 1888,
+        "timestamp_jawab": "2026-10-19T04:33:42.590Z",
+        "jam_jawab": "11:33:42.590"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 2205,
+        "timestamp_jawab": "2026-10-19T04:33:44.795Z",
+        "jam_jawab": "11:33:44.795"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 2522,
+        "timestamp_jawab": "2026-10-19T04:33:47.317Z",
+        "jam_jawab": "11:33:47.317"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 2839,
+        "timestamp_jawab": "2026-10-19T04:33:50.156Z",
+        "jam_jawab": "11:33:50.156"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 1956,
+        "timestamp_jawab": "2026-10-19T04:33:52.112Z",
+        "jam_jawab": "11:33:52.112"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": true,
+        "waktu_ms": 2273,
+        "timestamp_jawab": "2026-10-19T04:33:54.385Z",
+        "jam_jawab": "11:33:54.385"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": true,
+        "waktu_ms": 2590,
+        "timestamp_jawab": "2026-10-19T04:33:56.975Z",
+        "jam_jawab": "11:33:56.975"
+      }
+    ],
+    "log_kesalahan": []
+  },
+  {
+    "id": "demo_0_2_sng",
+    "timestamp": "2026-10-19T03:33:33.340Z",
+    "mode": "battle",
+    "room_code": "KELAS-7A",
+    "username": "citra",
+    "nama": "Citra Lestari",
+    "paket": "PAKET_5",
+    "skor": 10,
+    "sisa_nyawa": 3,
+    "total_waktu_ms": 21835,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 1957,
+        "timestamp_jawab": "2026-10-19T03:33:35.297Z",
+        "jam_jawab": "10:33:35.297"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 2274,
+        "timestamp_jawab": "2026-10-19T03:33:37.571Z",
+        "jam_jawab": "10:33:37.571"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 2591,
+        "timestamp_jawab": "2026-10-19T03:33:40.162Z",
+        "jam_jawab": "10:33:40.162"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 1708,
+        "timestamp_jawab": "2026-10-19T03:33:41.870Z",
+        "jam_jawab": "10:33:41.870"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 2025,
+        "timestamp_jawab": "2026-10-19T03:33:43.895Z",
+        "jam_jawab": "10:33:43.895"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 2342,
+        "timestamp_jawab": "2026-10-19T03:33:46.237Z",
+        "jam_jawab": "10:33:46.237"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 2659,
+        "timestamp_jawab": "2026-10-19T03:33:48.896Z",
+        "jam_jawab": "10:33:48.896"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 1776,
+        "timestamp_jawab": "2026-10-19T03:33:50.672Z",
+        "jam_jawab": "10:33:50.672"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": true,
+        "waktu_ms": 2093,
+        "timestamp_jawab": "2026-10-19T03:33:52.765Z",
+        "jam_jawab": "10:33:52.765"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": true,
+        "waktu_ms": 2410,
+        "timestamp_jawab": "2026-10-19T03:33:55.175Z",
+        "jam_jawab": "10:33:55.175"
+      }
+    ],
+    "log_kesalahan": []
+  },
+  {
+    "id": "demo_0_3_eot",
+    "timestamp": "2026-10-19T02:33:33.340Z",
+    "mode": "battle",
+    "room_code": "KELAS-7A",
+    "username": "dinda",
+    "nama": "Dinda Kirana",
+    "paket": "PAKET_10",
+    "skor": 10,
+    "sisa_nyawa": 3,
+    "total_waktu_ms": 20035,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "Soal #1",
+        "benar": true,
+        "waktu_ms": 1777,
+        "timestamp_jawab": "2026-10-19T02:33:35.117Z",
+        "jam_jawab": "09:33:35.117"
+      },
+      {
+        "no": 2,
+        "q": "Soal #2",
+        "benar": true,
+        "waktu_ms": 2094,
+        "timestamp_jawab": "2026-10-19T02:33:37.211Z",
+        "jam_jawab": "09:33:37.211"
+      },
+      {
+        "no": 3,
+        "q": "Soal #3",
+        "benar": true,
+        "waktu_ms": 2411,
+        "timestamp_jawab": "2026-10-19T02:33:39.622Z",
+        "jam_jawab": "09:33:39.622"
+      },
+      {
+        "no": 4,
+        "q": "Soal #4",
+        "benar": true,
+        "waktu_ms": 1528,
+        "timestamp_jawab": "2026-10-19T02:33:41.150Z",
+        "jam_jawab": "09:33:41.150"
+      },
+      {
+        "no": 5,
+        "q": "Soal #5",
+        "benar": true,
+        "waktu_ms": 1845,
+        "timestamp_jawab": "2026-10-19T02:33:42.995Z",
+        "jam_jawab": "09:33:42.995"
+      },
+      {
+        "no": 6,
+        "q": "Soal #6",
+        "benar": true,
+        "waktu_ms": 2162,
+        "timestamp_jawab": "2026-10-19T02:33:45.157Z",
+        "jam_jawab": "09:33:45.157"
+      },
+      {
+        "no": 7,
+        "q": "Soal #7",
+        "benar": true,
+        "waktu_ms": 2479,
+        "timestamp_jawab": "2026-10-19T02:33:47.636Z",
+        "jam_jawab": "09:33:47.636"
+      },
+      {
+        "no": 8,
+        "q": "Soal #8",
+        "benar": true,
+        "waktu_ms": 1596,
+        "timestamp_jawab": "2026-10-19T02:33:49.232Z",
+        "jam_jawab": "09:33:49.232"
+      },
+      {
+        "no": 9,
+        "q": "Soal #9",
+        "benar": true,
+        "waktu_ms": 1913,
+        "timestamp_jawab": "2026-10-19T02:33:51.145Z",
+        "jam_jawab": "09:33:51.145"
+      },
+      {
+        "no": 10,
+        "q": "Soal #10",
+        "benar": true,
+        "waktu_ms": 2230,
+        "timestamp_jawab": "2026-10-19T02:33:53.375Z",
+        "jam_jawab": "09:33:53.375"
+      }
+    ],
+    "log_kesalahan": []
+  },
+  {
+    "id": "mveto0ik24pg",
+    "timestamp": "2026-10-19T05:36:58.263Z",
+    "mode": "latihan",
+    "room_code": "LATIHAN",
+    "username": "admin",
+    "nama": "admin",
+    "paket": "PAKET_13",
+    "skor": 10,
+    "sisa_nyawa": 3,
+    "total_waktu_ms": 43657,
+    "detail_soal": [
+      {
+        "no": 1,
+        "q": "1/2 + 7/2",
+        "benar": true,
+        "jawaban_siswa": "4",
+        "waktu_ms": 3973,
+        "timestamp_jawab": "2026-10-19T05:36:16.492Z",
+        "jam_jawab": "12:36:16.492"
+      },
+      {
+        "no": 2,
+        "q": "3/3 + 6/3",
+        "benar": true,
+        "jawaban_siswa": "3",
+        "waktu_ms": 3784,
+        "timestamp_jawab": "2026-10-19T05:36:20.479Z",
+        "jam_jawab": "12:36:20.479"
+      },
+      {
+        "no": 3,
+        "q": "1/2 + 1/2",
+        "benar": true,
+        "jawaban_siswa": "1",
+        "waktu_ms": 3023,
+        "timestamp_jawab": "2026-10-19T05:36:23.713Z",
+        "jam_jawab": "12:36:23.713"
+      },
+      {
+        "no": 4,
+        "q": "1/4 + 11/4",
+        "benar": true,
+        "jawaban_siswa": "3",
+        "waktu_ms": 4964,
+        "timestamp_jawab": "2026-10-19T05:36:28.892Z",
+        "jam_jawab": "12:36:28.892"
+      },
+      {
+        "no": 5,
+        "q": "8/4 + 8/4",
+        "benar": true,
+        "jawaban_siswa": "4",
+        "waktu_ms": 3938,
+        "timestamp_jawab": "2026-10-19T05:36:33.033Z",
+        "jam_jawab": "12:36:33.033"
+      },
+      {
+        "no": 6,
+        "q": "3/3 + 6/3",
+        "benar": true,
+        "jawaban_siswa": "3",
+        "waktu_ms": 3784,
+        "timestamp_jawab": "2026-10-19T05:36:37.029Z",
+        "jam_jawab": "12:36:37.029"
+      },
+      {
+        "no": 7,
+        "q": "6/3 + 3/3",
+        "benar": true,
+        "jawaban_siswa": "3",
+        "waktu_ms": 5788,
+        "timestamp_jawab": "2026-10-19T05:36:43.025Z",
+        "jam_jawab": "12:36:43.025"
+      },
+      {
+        "no": 8,
+        "q": "2/2 + 2/2",
+        "benar": true,
+        "jawaban_siswa": "2",
+        "waktu_ms": 3685,
+        "timestamp_jawab": "2026-10-19T05:36:46.914Z",
+        "jam_jawab": "12:36:46.914"
+      },
+      {
+        "no": 9,
+        "q": "3/4 + 13/4",
+        "benar": true,
+        "jawaban_siswa": "4",
+        "waktu_ms": 6252,
+        "timestamp_jawab": "2026-10-19T05:36:53.380Z",
+        "jam_jawab": "12:36:53.380"
+      },
+      {
+        "no": 10,
+        "q": "4/5 + 1/5",
+        "benar": true,
+        "jawaban_siswa": "1",
+        "waktu_ms": 4466,
+        "timestamp_jawab": "2026-10-19T05:36:58.058Z",
+        "jam_jawab": "12:36:58.058"
+      }
+    ],
+    "log_kesalahan": []
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "name": "micro-quiz-math-reflex",
+  "version": "1.0.0",
+  "description": "Full-Stack Micro-Quiz Math Reflex Web Application (Vanilla HTML/CSS/JS + Node.js Backend)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
